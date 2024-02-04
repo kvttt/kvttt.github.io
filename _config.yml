@@ -84,7 +84,7 @@ author:
   avatar           : "Kaibo.jpg"
   bio              : "Undergraduate Researcher at UNC BRAIN Lab | Honors Carolina Student, Class of 2025 at UNC Chapel Hill"
   location         : "Chapel Hill, NC"
-  employer         : "Department of Radiology and BRIC, UNC Chapel Hill"
+#  employer         : "Department of Radiology and BRIC, UNC Chapel Hill"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "ktang@unc.edu"
