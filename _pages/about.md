@@ -19,7 +19,9 @@ since September 2021.
 Currently, I am also working as a Lab Assistant for BIOL 252L Fundamentals of Human Anatomy and Physiology Lab. 
 I have been volunteering at the Emergency Department at UNC Hospitals since last January.
 
-For my latest curriculum vitae, see [here](https://github.com/kvttt/kvttt.github.io/blob/master/files/Kaibo_Tang_CV.pdf).
+I am looking for a Ph.D. position starting in Fall 2025.
+
+You may find my CV here: [Kaibo's Curriculum Vitae](https://github.com/kvttt/kvttt.github.io/blob/master/files/Kaibo_Tang_CV.pdf).
 
 NEWS
 ----
