@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Videos"
-    url: /videos/
+  - title: "Experiences"
+    url: /experiences/
 
   - title: "Projects"
     url: /projects/
 
-  - title: "Experiences"
-    url: /experiences/
+  - title: "Videos"
+    url: /videos/
