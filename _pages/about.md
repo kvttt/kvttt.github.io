@@ -16,8 +16,10 @@ I am currently a junior at UNC Chapel Hill double majoring in Biostatistics, B.S
 I have been working at [UNC BRAIN Lab](https://bbm.web.unc.edu/) 
 in the [Biomedical Research and Imaging Center (BRIC)](https://www.med.unc.edu/bric/) 
 since September 2021. 
-Currently, I am also working as a Lab Assistant for BIOL 252L Human Anatomy and Physiology Lab. 
+Currently, I am also working as a Lab Assistant for BIOL 252L Fundamentals of Human Anatomy and Physiology Lab. 
 I have been volunteering at the Emergency Department at UNC Hospitals since last January.
+
+For my latest curriculum vitae, see [here](https://github.com/kvttt/kvttt.github.io/blob/master/files/Kaibo_Tang_CV.pdf).
 
 NEWS
 ----
@@ -70,4 +72,4 @@ AWARDS & HONORS
 TEACHING
 --------
 
-1. Learning Assistant for BIOL 252L Anatomy and Physiology Lab.
+1. Learning Assistant for BIOL 252L Fundamentals of Anatomy and Physiology Lab.
