@@ -36,20 +36,23 @@ was selected for funding by the [Summer Undergraduate Research Fellowship (SURF)
 EDUCATION <img src="/images/Gillings.jpg" width="300"/> 
 ---------
 
-#### B.S.P.H. in Biostatistics, UNC Chapel Hill (Chapel Hill, NC) (2021-2025)
-#### B.S. in Mathematics, UNC Chapel Hill (Chapel Hill, NC) (2021-2025)
+B.S.P.H. in Biostatistics, UNC Chapel Hill (Chapel Hill, NC) (2021-2025)
+
+B.S. in Mathematics, UNC Chapel Hill (Chapel Hill, NC) (2021-2025)
 
 RESEARCH INTERESTS
 ------------------
 
-#### Magnetic Resonance Imaging (MRI)
-#### Medical Image Analysis (Segmentation, Registration, Atlas Construction)
-#### Deep Learning
+Magnetic Resonance Imaging (MRI)
+
+Medical Image Analysis (Segmentation, Registration, Atlas Construction)
+
+Deep Learning
 
 PUBLICATIONS
 ------------
 
-***Conference Publications:*** 
+**Conference Publications:**
 
 **Kaibo Tang**, Liangjun Chen, Zhengwang Wu, Fenqiang Zhao, Ya Wang, Weili Lin, Li Wang, Gang Li. 
 Generation of anatomy-realistic 4D infant brain atlases with tissue maps using generative adversarial networks. 
