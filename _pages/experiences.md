@@ -19,18 +19,18 @@ author_profile: true
     with anatomically realistic segmentation maps using generative adversarial networks (GANs).
   * Supervisor: Dr. Gang Li
 
-* Jan 2023 - Present **Undergraduate Lab Assistant**
+* Jan 2023 - Present: **Undergraduate Lab Assistant**
   * ***Department of Biology, UNC Chapel Hill***, *Chapel Hill, NC*
   * Currently working as a Lab Assistant for BIOL 252L Fundamentals of Human Anatomy and Physiology Lab.
   * Responsible for answering questions in class, holding office hours before exams, and proctoring exams.
 
 
-* Jan 2023 - Present **Undergraduate Volunteer**
+* Jan 2023 - Present: **Undergraduate Volunteer**
   * ***Emergency Department, UNC Medical Center***, *Chapel Hill, NC*
   * Currently working 2 hours every Wednesday night in the Emergency Department at UNC Medical Center.
   * Responsible for answering call bells, rounding on patients, and helping with tubing stations.
 
-* Jun 2019 - July 2019 **Student Researcher**
+* Jun 2019 - July 2019: **Student Researcher**
   * ***National Advanced Driver Simulator (NADS), University of Iowa***, *Coralville, IA*
   * Partly responsible for a meta-analysis project.
   * Focused on setting up and benchmarking a computer cluster for the lab.
