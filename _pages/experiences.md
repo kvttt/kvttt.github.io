@@ -5,11 +5,12 @@ permalink: /experiences/
 author_profile: true
 ---
 
-<!---
-* May 2024 - Present: **Research Intern**
-  * ***Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital***, *Charlestown, MA*
-  * Supervisor: Dr. Fuyixue Wang
--->
+
+[//]: # (* May 2024 - Present: **Research Intern**)
+
+[//]: # (  * ***Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital***, *Charlestown, MA*)
+
+[//]: # (  * Supervisor: Dr. Fuyixue Wang)
 
 * Sep 2021 - Present: **Undergraduate Research Assistant**
   * ***Department of Radiology and Biomedical Research and Imaging Center (BRIC), UNC Chapel Hill***, *Chapel Hill, NC*
@@ -23,7 +24,6 @@ author_profile: true
   * ***Department of Biology, UNC Chapel Hill***, *Chapel Hill, NC*
   * Currently working as a Lab Assistant for BIOL 252L Fundamentals of Human Anatomy and Physiology Lab.
   * Responsible for answering questions in class, holding office hours before exams, and proctoring exams.
-
 
 * Jan 2023 - Present: **Undergraduate Volunteer**
   * ***Emergency Department, UNC Medical Center***, *Chapel Hill, NC*

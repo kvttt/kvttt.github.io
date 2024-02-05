@@ -30,11 +30,15 @@ NEWS
 
 *2/2/2024* - My first paper as the first author was accepted to [IEEE ISBI 2024](https://biomedicalimaging.org/2024/).
 
-*12/17/2023* - I went to [Winter Park](https://www.winterparkresort.com/), Colorado for a ski trip with my high school friends.
-* Lift Vertical: 86,549 ft
-* Lifts Ridden: 63
-* Days on Mountain: 9
-* Distance: 108 mi
+[//]: # (*12/17/2023* - I went to [Winter Park]&#40;https://www.winterparkresort.com/&#41;, Colorado for a ski trip with my high school friends.)
+
+[//]: # (* Lift Vertical: 86,549 ft)
+
+[//]: # (* Lifts Ridden: 63)
+
+[//]: # (* Days on Mountain: 9)
+
+[//]: # (* Distance: 108 mi)
 
 *10/31/2023* - I was inducted into 
 [Phi Beta Kappa at UNC Chapel Hill](https://uncnews.unc.edu/2023/10/31/259-students-inducted-into-phi-beta-kappa-at-unc-chapel-hill/).
@@ -42,20 +46,28 @@ NEWS
 *3/8/2023* - I was admitted to the [Biostatistics (B.S.P.H.)](https://sph.unc.edu/bios/biostatistics/) major 
 in [Gillings School of Global Public Health](https://sph.unc.edu/).
 
-*12/11/2022* - I went to [Heavenly](https://www.skiheavenly.com/) in South Lake Tahoe, California again for a ski trip with my high school friends.
-* Lift Vertical: 100,348 ft
-* Lifts Ridden: 99
-* Days on Mountain: 11
-* Distance: 111.94 mi
+[//]: # (*12/11/2022* - I went to [Heavenly]&#40;https://www.skiheavenly.com/&#41; in South Lake Tahoe, California again for a ski trip with my high school friends.)
+
+[//]: # (* Lift Vertical: 100,348 ft)
+
+[//]: # (* Lifts Ridden: 99)
+
+[//]: # (* Days on Mountain: 11)
+
+[//]: # (* Distance: 111.94 mi)
 
 *4/4/2022* - My project, Registering Infant Brain MR Image with Auxiliary Data, 
 was selected for funding by the [Summer Undergraduate Research Fellowship (SURF)](https://our.unc.edu/fund/surf/).
 
-*12/14/2022* - I went to [Heavenly](https://www.skiheavenly.com/) in South Lake Tahoe, California for a ski trip with my high school friends.
-* Lift Vertical: 43,731 ft
-* Lifts Ridden: 43
-* Days on Mountain: 6
-* Distance: N/A
+[//]: # (*12/14/2022* - I went to [Heavenly]&#40;https://www.skiheavenly.com/&#41; in South Lake Tahoe, California for a ski trip with my high school friends.)
+
+[//]: # (* Lift Vertical: 43,731 ft)
+
+[//]: # (* Lifts Ridden: 43)
+
+[//]: # (* Days on Mountain: 6)
+
+[//]: # (* Distance: N/A)
 
 EDUCATION <img src="/images/Gillings.jpg" width="300"/> 
 ---------
