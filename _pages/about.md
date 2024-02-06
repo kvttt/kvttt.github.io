@@ -81,7 +81,7 @@ RESEARCH INTERESTS
 
 * Magnetic Resonance Imaging (MRI)
 
-* Medical Image Analysis (Segmentation, Registration, Atlas Construction)
+* Medical Image Analysis (Volume- and Surface-based Registration, and Atlas Construction, etc.)
 
 * Explainable Deep Learning
 
