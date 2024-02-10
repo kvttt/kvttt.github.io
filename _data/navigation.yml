@@ -9,5 +9,8 @@ main:
   - title: "Videos"
     url: /videos/
 
+  - title: "Notes"
+    url: /notes/
+
   - title: "Photography"
     url: https://kvttt.myportfolio.com/
