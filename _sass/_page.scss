@@ -93,11 +93,11 @@
   dd {
     margin-left: 1em;
     font-family: $sans-serif;
-    font-size: $type-size-6;
+    font-size: $type-size-7;
   }
 
   .small {
-    font-size: $type-size-6;
+    font-size: $type-size-7;
   }
 
   /* blockquote citations */
@@ -174,7 +174,7 @@
   padding: 2px 5px;
   color: #fff;
   font-family: $caption-font-family;
-  font-size: $type-size-6;
+  font-size: $type-size-7;
   background: #000;
   text-align: right;
   z-index: 5;
@@ -216,7 +216,7 @@
 
 .page__share-title {
   margin-bottom: 10px;
-  font-size: $type-size-6;
+  font-size: $type-size-7;
   text-transform: uppercase;
 }
 
@@ -229,7 +229,7 @@
   margin-top: 2em;
   color: mix(#fff, $gray, 25%);
   font-family: $sans-serif;
-  font-size: $type-size-6;
+  font-size: $type-size-7;
 
   p {
     margin: 0;
@@ -242,7 +242,7 @@
 
 .page__meta-title {
   margin-bottom: 10px;
-  font-size: $type-size-6;
+  font-size: $type-size-7;
   text-transform: uppercase;
 }
 
@@ -289,7 +289,7 @@
   margin-top: 2rem;
   margin-bottom: 10px;
   padding-top: 2rem;
-  font-size: $type-size-6;
+  font-size: $type-size-7;
   border-top: 1px solid $border-color;
   text-transform: uppercase;
 }
@@ -396,6 +396,6 @@
 
 .page__related-title {
   margin-bottom: 10px;
-  font-size: $type-size-6;
+  font-size: $type-size-7;
   text-transform: uppercase;
 }
