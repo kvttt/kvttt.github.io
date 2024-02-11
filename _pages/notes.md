@@ -22,4 +22,3 @@ author_profile: true
     *  The aim of this note is to organize the materials in a way that is easy to understand and to provide
        a quick reference when studying for midterms and finals.
     *  Note: [<img src="/images/pdf.png" width="25"/>](https://github.com/kvttt/kvttt.github.io/blob/master/files/522-notes.pdf)
-    * 
