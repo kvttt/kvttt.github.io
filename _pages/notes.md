@@ -14,4 +14,12 @@ author_profile: true
        concepts behind this seemingly simple yet sometimes frustrating procedure,
        to facilitate the understanding of the relationship between LPS and RAS spaces,
        and to provide a practical example of how to perform the conversion.
-    *  Video: [<img src="/images/pdf.png" width="25"/>](https://github.com/kvttt/kvttt.github.io/blob/master/files/ANTs_mat.pdf)
+    *  Note: [<img src="/images/pdf.png" width="25"/>](https://github.com/kvttt/kvttt.github.io/blob/master/files/ANTs_mat.pdf)
+2. ### *Review Notes for MATH 522: Advanced Calculus II*
+    *  Developed a 11-page note that reviews important theorems in multivariable analysis,
+       including but not limited to Implicit Function Theorem, Inverse Function Theorem, Contraction Mapping Theorem,
+       Taylor's Theorem, etc. The note also includes brief notes on tricks that are frequently used in the course.
+    *  The aim of this note is to organize the materials in a way that is easy to understand and to provide
+       a quick reference when studying for midterms and finals.
+    *  Note: [<img src="/images/pdf.png" width="25"/>](https://github.com/kvttt/kvttt.github.io/blob/master/files/522-notes.pdf)
+    * 
