@@ -5,6 +5,9 @@ permalink: /notes/
 author_profile: true
 ---
 
+Medical Image Registration
+--------------------------
+
 1. ### *Converting ANTs affine matrix to a $4 \times 4$ homogeneous matrix*
     *  Developed a 4-page note that demonstrates two methods of converting an affine matrix
        obtained from ANTs to a $4 \times 4$ homogeneous matrix,
@@ -15,7 +18,16 @@ author_profile: true
        to facilitate the understanding of the relationship between LPS and RAS spaces,
        and to provide a practical example of how to perform the conversion.
     *  Note: [<img src="/images/pdf.png" width="25"/>](https://github.com/kvttt/kvttt.github.io/blob/master/files/ANTs_mat.pdf)
-2. ### *Review Notes for MATH 522: Advanced Calculus II*
+2. ### *Deformable Image Registration*
+    *  Developed a 2-page note that clarifies notations and concepts that are frequently abused and confused
+       in the field of deformable image registration. 
+    * The note also provide definitions of important terms and their mathematical formulations.
+    *  Note: [<img src="/images/pdf.png" width="25"/>](https://github.com/kvttt/kvttt.github.io/blob/master/files/Registration.pdf)
+
+Mathematics
+-----------
+
+1. ### *Review Notes for MATH 522: Advanced Calculus II*
     *  Developed a 11-page note that reviews important theorems in multivariable analysis,
        including but not limited to Implicit Function Theorem, Inverse Function Theorem, Contraction Mapping Theorem,
        Taylor's Theorem, etc. The note also includes brief notes on tricks that are frequently used in the course.
