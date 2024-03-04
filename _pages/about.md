@@ -81,7 +81,9 @@ RESEARCH INTERESTS
 
 * Magnetic Resonance Imaging (MRI)
 
-* Medical Image Analysis (Volume- and Surface-based Registration, and Atlas Construction, etc.)
+* Medical Image Analysis 
+  * Volume- and Surface-based Registration
+  * Atlas Construction for the Early Developing Brain
 
 * Explainable Deep Learning
 
