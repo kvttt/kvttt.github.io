@@ -23,7 +23,7 @@ In my free time, I enjoy snowboarding, cooking Chinese food, and [photography](h
 
 I am looking for a Ph.D. position starting in Fall 2025.
 
-You may find my CV here: [Kaibo's Curriculum Vitae](https://github.com/kvttt/kvttt.github.io/blob/master/files/Kaibo_Tang_CV.pdf).
+You may find my CV here: [Kaibo's Curriculum Vitae](/files/Kaibo_Tang_CV.pdf).
 
 NEWS
 ----
