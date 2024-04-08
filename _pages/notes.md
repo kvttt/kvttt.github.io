@@ -17,12 +17,12 @@ Medical Image Registration
        concepts behind this seemingly simple yet sometimes frustrating procedure,
        to facilitate the understanding of the relationship between LPS and RAS spaces,
        and to provide a practical example of how to perform the conversion.
-    *  Note: [<img src="/images/pdf.png" width="25"/>](https://github.com/kvttt/kvttt.github.io/blob/master/files/ANTs_mat.pdf)
+    *  Note: [<img src="/images/pdf.png" width="25"/>](/files/ANTs_mat.pdf)
 2. ### *Deformable Image Registration*
     *  Developed a 2-page note that clarifies notations and concepts that are frequently abused and confused
        in the field of deformable image registration. 
     * The note also provide definitions of important terms and their mathematical formulations.
-    *  Note: [<img src="/images/pdf.png" width="25"/>](https://github.com/kvttt/kvttt.github.io/blob/master/files/Registration.pdf)
+    *  Note: [<img src="/images/pdf.png" width="25"/>](/files/Registration.pdf)
 
 Mathematics
 -----------
@@ -33,4 +33,4 @@ Mathematics
        Taylor's Theorem, etc. The note also includes brief notes on tricks that are frequently used in the course.
     *  The aim of this note is to organize the materials in a way that is easy to understand and to provide
        a quick reference when studying for midterms and finals.
-    *  Note: [<img src="/images/pdf.png" width="25"/>](https://github.com/kvttt/kvttt.github.io/blob/master/files/522-notes.pdf)
+    *  Note: [<img src="/images/pdf.png" width="25"/>](/files/522-notes.pdf)

@@ -19,7 +19,7 @@ since September 2021.
 Currently, I am also working as a Lab Assistant for BIOL 252L Fundamentals of Human Anatomy and Physiology Lab. 
 I have been volunteering at the Emergency Department at UNC Hospitals since last January.
 
-In my free time, I enjoy snowboarding, cooking Chinese food, and [photography](https://kvttt.myportfolio.com/).
+In my free time, I enjoy snowboarding, badminton, cooking Chinese food, and [photography](https://kvttt.myportfolio.com/).
 
 I am looking for a Ph.D. position starting in Fall 2025.
 
@@ -80,6 +80,7 @@ RESEARCH INTERESTS
 ------------------
 
 * Magnetic Resonance Imaging (MRI)
+  * Diffusion MRI (dMRI) accelerated acquisition and reconstruction
 
 * Medical Image Analysis 
   * Volume- and Surface-based Registration
