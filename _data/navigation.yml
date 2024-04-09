@@ -6,6 +6,9 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "CV"
+    url: /files/Kaibo_Tang_CV.pdf
+
   - title: "Videos"
     url: /videos/
 
@@ -14,6 +17,3 @@ main:
 
   - title: "Photography"
     url: https://kvttt.myportfolio.com/
-
-  - title: "Curriculum Vitae"
-    url: /files/Kaibo_Tang_CV.pdf
