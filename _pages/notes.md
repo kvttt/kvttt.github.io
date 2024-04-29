@@ -28,9 +28,15 @@ Mathematics
 -----------
 
 1. ### *Review Notes for MATH 522: Advanced Calculus II*
-    *  Developed a 11-page note that reviews important theorems in multivariable analysis,
-       including but not limited to Implicit Function Theorem, Inverse Function Theorem, Contraction Mapping Theorem,
-       Taylor's Theorem, etc. The note also includes brief notes on tricks that are frequently used in the course.
+    *  Developed a 40-page note that summarizes the materials covered in MATH 522: Advanced Calculus II.
+    *  Topics covered in this note includes: 
+       *  Metric spaces
+       *  Jordan content and Riemann integration
+       *  Differential forms
+       *  Surfaces
+       *  Functional analysis
+       *  ODE theory
+       *  Lebesgue measure and integration
     *  The aim of this note is to organize the materials in a way that is easy to understand and to provide
        a quick reference when studying for midterms and finals.
     *  Note: [<img src="/images/pdf.png" width="25"/>](/files/522-notes.pdf)
