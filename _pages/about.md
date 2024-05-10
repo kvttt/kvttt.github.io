@@ -87,8 +87,8 @@ RESEARCH INTERESTS
   * Diffusion MRI (dMRI) accelerated acquisition and reconstruction
 
 * Medical Image Analysis 
-  * Volume- and Surface-based Registration
-  * Atlas Construction for the Early Developing Brain
+  * Volume- and surface-based registration
+  * Atlas construction for the early developing brain
 
 * Explainable Deep Learning
 
