@@ -5,12 +5,9 @@ permalink: /experiences/
 author_profile: true
 ---
 
-
-[//]: # (* May 2024 - Present: **Research Intern**)
-
-[//]: # (  * ***Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital***, *Charlestown, MA*)
-
-[//]: # (  * Supervisor: Dr. Fuyixue Wang)
+* May 2024 - Present: **Research Assistant**
+  * ***Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital***, *Charlestown, MA*
+  * Supervisor: Dr. Fuyixue Wang
 
 * Sep 2021 - Present: **Undergraduate Research Assistant**
   * ***Department of Radiology and Biomedical Research and Imaging Center (BRIC), UNC Chapel Hill***, *Chapel Hill, NC*

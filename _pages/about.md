@@ -11,13 +11,14 @@ redirect_from:
 ABOUT MYSELF
 ============
 
-I am currently a third-year undergraduate student at UNC Chapel Hill double majoring in Biostatistics, B.S.P.H. and Mathematics, B.S. with a minor in Chemistry. 
+I am currently a rising senior at UNC Chapel Hill double majoring in Biostatistics, B.S.P.H. and Mathematics, B.S. with a minor in Chemistry. 
 
 I have been working at [UNC BRAIN Lab](https://bbm.web.unc.edu/) 
-in the [Biomedical Research and Imaging Center (BRIC)](https://www.med.unc.edu/bric/) 
+in the [Biomedical Research Imaging Center (BRIC)](https://www.med.unc.edu/bric/) as a Undergraduate Research Assistant
 since September 2021. 
-Currently, I am also working as a Lab Assistant for BIOL 252L: Fundamentals of Human Anatomy and Physiology Lab. 
-I have been volunteering at the Emergency Department at UNC Hospitals since last January.
+Currently, I am also working as an intern at the [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org).
+During regular semesters, I work as a Lab Assistant for BIOL 252L: Fundamentals of Human Anatomy and Physiology Lab. 
+I have been volunteering at the Emergency Department at UNC Hospitals since January 2023.
 
 In my free time, I enjoy snowboarding, badminton, cooking Chinese food, and [photography](https://kvttt.myportfolio.com/).
 
@@ -27,6 +28,7 @@ You may find my CV here: [Kaibo's Curriculum Vitae](/files/Kaibo_Tang_CV.pdf).
 
 NEWS
 ----
+
 
 *4/11/2024* - My paper accepted to [IEEE ISBI 2024](https://biomedicalimaging.org/2024/) was selected as an oral presentation.
 
