@@ -7,16 +7,11 @@ author_profile: true
 
 Contributions
 -------------
-
-1. ### *Contributed to [Project MONAI/MONAI](https://github.com/Project-MONAI/MONAI)*
-    *  Opened and merged pull request [#7178](https://github.com/Project-MONAI/MONAI/pull/7178)
-       in response to a feature request proposed in issue [#5484](https://github.com/Project-MONAI/MONAI/issues/5484),
-       which adds a new `VoxelMorph` class to the existing MONAI Core and can serve as a general framework 
-       based on which one can easily construct a deep learning network for 2D/3D image registration.
-    *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/Project-MONAI/MONAI/blob/dev/monai/networks/nets/voxelmorph.py)
-    *  Opened and merged pull request [#7272](https://github.com/Project-MONAI/MONAI/pull/7272), 
-       which adds a new registration regularizer `DiffusionLoss` in addition to the existing `BendingEnergyLoss`.
-    *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/Project-MONAI/MONAI/blob/dev/monai/losses/deform.py)
+1. ### *Contributed to [DIPY/DIPY](https://github.com/dipy/dipy)*
+    *  Opened and merged pull request [#3237](https://github.com/dipy/dipy/pull/3237), 
+       which deprecates the old `rbf_interpolation` function, which only supports interpolation of scalar-valued spherical functions,
+       and replaces it with a new `interp_rbf` function that supports interpolation of tensor-valued spherical functions.
+    *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/dipy/dipy/blob/master/dipy/core/interpolation.pyx)
 2. ### *Contributed to [Project MONAI/tutorials](https://github.com/Project-MONAI/tutorials)*
     *  Opened and merged pull request [#1566](https://github.com/Project-MONAI/tutorials/pull/1566), 
        which adds a tutorial on leveraging the newly implemented `VoxelMorph` class 
@@ -27,34 +22,57 @@ Contributions
        which adds a notebook demonstrating the scaling laws 
        regarding the newly added `BendingEnergyLoss` and `DiffusionLoss`.
     *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/Project-MONAI/tutorials/blob/main/modules/bending_energy_diffusion_loss_notes.ipynb)
+3. ### *Contributed to [Project MONAI/MONAI](https://github.com/Project-MONAI/MONAI)*
+    *  Opened and merged pull request [#7178](https://github.com/Project-MONAI/MONAI/pull/7178)
+       in response to a feature request proposed in issue [#5484](https://github.com/Project-MONAI/MONAI/issues/5484),
+       which adds a new `VoxelMorph` class to the existing MONAI Core and can serve as a general framework 
+       based on which one can easily construct a deep learning network for 2D/3D image registration.
+    *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/Project-MONAI/MONAI/blob/dev/monai/networks/nets/voxelmorph.py)
+    *  Opened and merged pull request [#7272](https://github.com/Project-MONAI/MONAI/pull/7272), 
+       which adds a new registration regularizer `DiffusionLoss` in addition to the existing `BendingEnergyLoss`.
+    *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/Project-MONAI/MONAI/blob/dev/monai/losses/deform.py)
+
  
 Tools
 -----
-
-1. ### *UnstructuredInterpolation*
+1. ### *Patch2Self_MATLAB*
+    *  Re-implemented Patch2Self in MATLAB based on the [original paper](https://arxiv.org/abs/2011.01355) 
+       and the [official DIPY implementation](https://github.com/dipy/dipy/blob/master/dipy/denoise/patch2self.py). 
+       Patch2Self is a widely used self-supervised learning method for denoising diffusion MRI data. 
+       However, the use case of my current project (and many others) requires running Patch2Self as part of a MATLAB pipeline.
+       Re-implementation of Patch2Self in MATLAB allows for seamless integration of Patch2Self into such pipeline.
+    *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/kvttt/Patch2Self_MATLAB)
+2. ### *ICON_OASIS*
+    *  A reproduction of ICON and GradICON on the OASIS dataset 
+       based on the [ICON original paper](https://arxiv.org/abs/2105.04459) and [GradICON original paper](https://arxiv.org/abs/2206.05897). 
+       This re-implementation uses `MONAI.networks.nets.VoxelMorph` and `MONAI.losses.DiffusionLoss`. 
+       The purpose of this project is to try out [Marc's group's](https://biag.cs.unc.edu/author/marc-niethammer/) latest work 
+       and provide an example of how to integrate the ICON and GradICON loss functions into an existing training pipeline.
+    *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/kvttt/ICON_OASIS)
+3. ### *UnstructuredInterpolation*
     *  Created a utility for unstructured interpolation of 2D/3D data 
        at any number of arbitrary locations based on `torch.nn.functional.grid_sample`. 
        Cases where this is useful include applying a displacement field 
        predicted at discrete voxel locations to a densely and continuously sampled surface 
        represented by a set of vertices.
     * GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/kvttt/UnstructuredInterpolation)
-2. ### *PerfusionDSA*
+4. ### *PerfusionDSA*
     *  Created an interactive command line tool that takes as input a series of 2D$+t$ images 
        produced by cerebral X-ray Digital Subtraction Angiogram (DSA) and produces parametric images 
        including cerebral blood flow (CBF), cerebral blood volume (CBV), mean transit time (MTT), 
        and time to maximum flow-scaled residue function (Tmax).
     *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/kvttt/PerfusionDSA)
-3. ### *N4BiasFieldCorrection*
+5. ### *N4BiasFieldCorrection*
     *  Created an easy-to-use command line tool that performs N4 bias field correction on a 3D volume 
        based on a [SimpleITK tutorial](https://simpleitk.readthedocs.io/en/master/link_N4BiasFieldCorrection_docs.html).
     *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/kvttt/N4BiasFieldCorrection)
-4. ### *XRayPanorama*
+6. ### *XRayPanorama*
     *  Created an interactive command line tool with simple GUI that, 
        given the hip, knee, and ankle images of the same subject, 
        stitches the three images together based on a [SimpleITK tutorial](https://github.com/SimpleITK/TUTORIAL/blob/main/07_registration_application.ipynb). 
        Additional functionalities were added to enhance the appearance of the resulting panorama.
     *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/kvttt/XRayPanorama)
-5. ### *SpectralProfile*
+7. ### *SpectralProfile*
     *  Created a little script that can be easily used on any PyTorch project to visualize the spectral profile 
        of a generated (or any) image (either 2D or 3D) based on Fast Fourier Transform (FFT).
     *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/kvttt/SpectralProfile)

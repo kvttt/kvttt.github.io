@@ -29,6 +29,9 @@ You may find my CV here: [Kaibo's Curriculum Vitae](/files/Kaibo_Tang_CV.pdf).
 NEWS
 ----
 
+*5/21/2024* - [MONAI](https://monai.io/) 1.3.1 was released! I contributed three PRs for the release, 
+              which added two new modules for image registration task, i.e., `VoxelMorph` and `DiffusionLoss`.
+              To try out the latest version of MONAI, please run `pip install monai` or `conda install conda-forge::monai`.
 
 *4/11/2024* - My paper accepted to [IEEE ISBI 2024](https://biomedicalimaging.org/2024/) was selected as an oral presentation.
 
