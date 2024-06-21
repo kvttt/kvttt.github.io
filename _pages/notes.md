@@ -46,7 +46,7 @@ Mathematics
 
 1. ### *Review Notes for MATH 522: Advanced Calculus II*
     *  Developed a 40-page note that summarizes the materials covered in MATH 522: Advanced Calculus II.
-    *  Topics covered in this note includes: 
+    *  Topics covered in this note include: 
        *  Metric spaces
        *  Jordan content and Riemann integration
        *  Differential forms

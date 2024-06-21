@@ -5,9 +5,10 @@ permalink: /experiences/
 author_profile: true
 ---
 
-* May 2024 - Present: **Research Assistant**
+* May 2024 - Present: **Summer Intern**
   * ***Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital***, *Charlestown, MA*
-  * Supervisor: Dr. Fuyixue Wang
+  * Currently working on a project on accelerating mesoscale diffusion MRI (dMRI) acquisition.
+  * Supervisor: Dr. Fuyixue Wang and Dr. Zijing Dong
 
 * Sep 2021 - Present: **Undergraduate Research Assistant**
   * ***Department of Radiology and Biomedical Research and Imaging Center (BRIC), UNC Chapel Hill***, *Chapel Hill, NC*
