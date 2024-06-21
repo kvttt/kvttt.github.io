@@ -102,7 +102,7 @@ PUBLICATIONS
 
 1. **Kaibo Tang**, Liangjun Chen, Zhengwang Wu, Fenqiang Zhao, Ya Wang, Weili Lin, Li Wang, Gang Li. 
 Generation of anatomy-realistic 4D infant brain atlases with tissue maps using generative adversarial networks. 
-Accepted to ISBI 2024.
+Accepted to ISBI 2024 (Oral).
 
 AWARDS & HONORS
 ---------------
