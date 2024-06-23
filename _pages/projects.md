@@ -35,44 +35,54 @@ Contributions
  
 Tools
 -----
-1. ### *Patch2Self_MATLAB*
+1. ### *Spherical Harmonics Fitting*
+    *  Re-implemented selected tools from DIPY for fitting spherical harmonics in DIPY.
+       In addition, a helpful tool for converting gradient directions `bvec` from the 
+       Cartesian coordinate system to the corresponding spherical coordinate system was also implemented.
+       The re-implementation offers the same functionality as the original DIPY tools 
+       but allows the user to directly run the tools from MATLAB without dependency on DIPY.
+    *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/kvttt/Spherical-Harmonics-Fitting)
+    *  MATLAB: [![View Spherical Harmonics Fitting on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/168597-spherical-harmonics-fitting)
+
+2. ### *Patch2Self_MATLAB*
     *  Re-implemented Patch2Self in MATLAB based on the [original paper](https://arxiv.org/abs/2011.01355) 
        and the [official DIPY implementation](https://github.com/dipy/dipy/blob/master/dipy/denoise/patch2self.py). 
        Patch2Self is a widely used self-supervised learning method for denoising diffusion MRI data. 
        However, the use case of my current project (and many others) requires running Patch2Self as part of a MATLAB pipeline.
        Re-implementation of Patch2Self in MATLAB allows for seamless integration of Patch2Self into such pipeline.
     *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/kvttt/Patch2Self_MATLAB)
-2. ### *ICON_OASIS*
+    *  MATLAB: [![View Patch2Self_MATLAB on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/168596-patch2self_matlab)
+3. ### *ICON_OASIS*
     *  A reproduction of ICON and GradICON on the OASIS dataset 
        based on the [ICON original paper](https://arxiv.org/abs/2105.04459) and [GradICON original paper](https://arxiv.org/abs/2206.05897). 
        This re-implementation uses `MONAI.networks.nets.VoxelMorph` and `MONAI.losses.DiffusionLoss`. 
        The purpose of this project is to try out [Marc's group's](https://biag.cs.unc.edu/author/marc-niethammer/) latest work 
        and provide an example of how to integrate the ICON and GradICON loss functions into an existing training pipeline.
     *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/kvttt/ICON_OASIS)
-3. ### *UnstructuredInterpolation*
+4. ### *UnstructuredInterpolation*
     *  Created a utility for unstructured interpolation of 2D/3D data 
        at any number of arbitrary locations based on `torch.nn.functional.grid_sample`. 
        Cases where this is useful include applying a displacement field 
        predicted at discrete voxel locations to a densely and continuously sampled surface 
        represented by a set of vertices.
     * GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/kvttt/UnstructuredInterpolation)
-4. ### *PerfusionDSA*
+5. ### *PerfusionDSA*
     *  Created an interactive command line tool that takes as input a series of 2D$+t$ images 
        produced by cerebral X-ray Digital Subtraction Angiogram (DSA) and produces parametric images 
        including cerebral blood flow (CBF), cerebral blood volume (CBV), mean transit time (MTT), 
        and time to maximum flow-scaled residue function (Tmax).
     *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/kvttt/PerfusionDSA)
-5. ### *N4BiasFieldCorrection*
+6. ### *N4BiasFieldCorrection*
     *  Created an easy-to-use command line tool that performs N4 bias field correction on a 3D volume 
        based on a [SimpleITK tutorial](https://simpleitk.readthedocs.io/en/master/link_N4BiasFieldCorrection_docs.html).
     *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/kvttt/N4BiasFieldCorrection)
-6. ### *XRayPanorama*
+7. ### *XRayPanorama*
     *  Created an interactive command line tool with simple GUI that, 
        given the hip, knee, and ankle images of the same subject, 
        stitches the three images together based on a [SimpleITK tutorial](https://github.com/SimpleITK/TUTORIAL/blob/main/07_registration_application.ipynb). 
        Additional functionalities were added to enhance the appearance of the resulting panorama.
     *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/kvttt/XRayPanorama)
-7. ### *SpectralProfile*
+8. ### *SpectralProfile*
     *  Created a little script that can be easily used on any PyTorch project to visualize the spectral profile 
        of a generated (or any) image (either 2D or 3D) based on Fast Fourier Transform (FFT).
     *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/kvttt/SpectralProfile)
