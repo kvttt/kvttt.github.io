@@ -42,7 +42,7 @@ Tools
        The re-implementation offers the same functionality as the original DIPY tools 
        but allows the user to directly run the tools from MATLAB without dependency on DIPY.
     *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/kvttt/Spherical-Harmonics-Fitting)
-    *  MATLAB: [![View Spherical Harmonics Fitting on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/168597-spherical-harmonics-fitting)
+    *  MATLAB: [![View Spherical Harmonics Fitting on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/168591-spherical-harmonics-fitting)
 
 2. ### *Patch2Self_MATLAB*
     *  Re-implemented Patch2Self in MATLAB based on the [original paper](https://arxiv.org/abs/2011.01355) 
