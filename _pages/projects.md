@@ -42,7 +42,7 @@ Tools
        The re-implementation offers the same functionality as the original DIPY tools 
        but allows the user to directly run the tools from MATLAB without dependency on DIPY.
     *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/kvttt/Spherical-Harmonics-Fitting)
-    *  MATLAB: [![View Spherical Harmonics Fitting on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/168591-spherical-harmonics-fitting)
+    *  MATLAB File Exchange: [![View Spherical Harmonics Fitting on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/168591-spherical-harmonics-fitting)
 
 2. ### *Patch2Self_MATLAB*
     *  Re-implemented Patch2Self in MATLAB based on the [original paper](https://arxiv.org/abs/2011.01355) 
@@ -51,7 +51,7 @@ Tools
        However, the use case of my current project (and many others) requires running Patch2Self as part of a MATLAB pipeline.
        Re-implementation of Patch2Self in MATLAB allows for seamless integration of Patch2Self into such pipeline.
     *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/kvttt/Patch2Self_MATLAB)
-    *  MATLAB: [![View Patch2Self_MATLAB on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/168596-patch2self_matlab)
+    *  MATLAB File Exchange: [![View Patch2Self_MATLAB on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/168596-patch2self_matlab)
 3. ### *ICON_OASIS*
     *  A reproduction of ICON and GradICON on the OASIS dataset 
        based on the [ICON original paper](https://arxiv.org/abs/2105.04459) and [GradICON original paper](https://arxiv.org/abs/2206.05897). 
