@@ -29,7 +29,7 @@ You may find my CV here: [Kaibo's Curriculum Vitae](/files/Kaibo_Tang_CV.pdf).
 NEWS
 ----
 
-*6/27/2024* - A paper I helped revise was published in BMC Medicine! Du, Y., Li, C., Zhao, W. et al. Multimodal neuroimaging exploration of the mechanisms of sleep quality deterioration after SARS-CoV-2 Omicron infection. *BMC Med* **22**, 271 (2024). https://doi.org/10.1186/s12916-024-03487-9
+*6/27/2024* - A paper I helped revise was published in BMC Medicine! Du, Y., Li, C., Zhao, W. et al. Multimodal neuroimaging exploration of the mechanisms of sleep quality deterioration after SARS-CoV-2 Omicron infection. *BMC Med* **22**, 271 (2024). [https://doi.org/10.1186/s12916-024-03487-9](https://doi.org/10.1186/s12916-024-03487-9)
 
 *5/21/2024* - [MONAI](https://monai.io/) 1.3.1 was released! I contributed three PRs for the release, 
               which added two new modules for image registration task, i.e., `VoxelMorph` and `DiffusionLoss`.
