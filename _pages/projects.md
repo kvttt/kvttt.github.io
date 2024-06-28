@@ -9,8 +9,8 @@ Contributions
 -------------
 1. ### *Contributed to [DIPY/DIPY](https://github.com/dipy/dipy)*
     *  Opened and merged pull request [#3237](https://github.com/dipy/dipy/pull/3237), 
-       which deprecates the old `rbf_interpolation` function, which only supports interpolation of scalar-valued spherical functions,
-       and replaces it with a new `interp_rbf` function that supports interpolation of tensor-valued spherical functions.
+       which deprecates the old `interp_rbf` function, which only supports interpolation of scalar-valued spherical functions,
+       and replaces it with a new `rbf_interpolation` function that supports interpolation of tensor-valued spherical functions.
     *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/dipy/dipy/blob/master/dipy/core/interpolation.pyx)
 2. ### *Contributed to [Project MONAI/tutorials](https://github.com/Project-MONAI/tutorials)*
     *  Opened and merged pull request [#1566](https://github.com/Project-MONAI/tutorials/pull/1566), 
