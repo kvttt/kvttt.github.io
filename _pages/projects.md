@@ -40,7 +40,7 @@ Tools
        The tool is based on the [MNI152 2009a Nonlinear Asymmetric atlas](https://www.bic.mni.mcgill.ca/ServicesAtlases/ICBM152NLin2009)
        and a corresponding pituitary mask annotated by a radiologist.
     *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/kvttt/Pituitary_Segmentation)
-    * 
+
 2. ### *Spherical Harmonics Fitting*
     *  Re-implemented selected tools from DIPY for fitting spherical harmonics in DIPY.
        In addition, a helpful tool for converting gradient directions `bvec` from the 
