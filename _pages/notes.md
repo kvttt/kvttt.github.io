@@ -10,12 +10,11 @@ On Statistical Estimation
 
 1. ### *Score Matching*
     *  Developed a 6-page note that provides an in-depth explanation of [score matching](https://www.jmlr.org/papers/volume6/hyvarinen05a/hyvarinen05a.pdf).
-    *  The note provides detailed proofs of the three important theorems about score matching presented in the paper, which include:
+    *  The note provides more detailed explanations of the theorems presented in the paper with elementary but more rigorous proofs, which include:
         * Theorem 1: Simplification of the objective function. 
         * Theorem 2: Well-definedness of the estimator obtained by minimization of the exact objective function.
         * Corollary 3: Consistency of the estimator obtained by minimization of the approximated objective function based on sampling.
-    * The note also includes explanations of the motivation behind score matching as opposed to maximum likelihood estimation (MLE).
-    * Some additional mild regularity assumptions that are omitted by the author are clarified in the note.
+    *  The note also includes explanation of the motivation behind score matching and clarification of some of the mild yet essential regularity assumptions omitted by the author.
     *  Note: [<img src="/images/pdf.png" width="25"/>](/files/Score_Matching.pdf)
 
 On Ill-posed Inverse Problems
