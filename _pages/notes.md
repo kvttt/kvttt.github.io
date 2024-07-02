@@ -5,6 +5,19 @@ permalink: /notes/
 author_profile: true
 ---
 
+On Statistical Estimation
+-------------------------
+
+1. ### *Score Matching*
+    *  Developed a 6-page note that provides an in-depth explanation of [score matching](https://www.jmlr.org/papers/volume6/hyvarinen05a/hyvarinen05a.pdf).
+    *  The note provides detailed proofs of the three important theorems about score matching presented in the paper, which include:
+        * Theorem 1: Simplification of the objective function. 
+        * Theorem 2: Well-definedness of the estimator obtained by minimization of the exact objective function.
+        * Corollary 3: Consistency of the estimator obtained by minimization of the approximated objective function based on sampling.
+    * The note also includes explanations of the motivation behind score matching as opposed to maximum likelihood estimation (MLE).
+    * Some additional mild regularity assumptions that are omitted by the author are clarified in the note.
+    *  Note: [<img src="/images/pdf.png" width="25"/>](/files/Score_Matching.pdf)
+
 On Ill-posed Inverse Problems
 -----------------------------
 
@@ -22,8 +35,8 @@ On Ill-posed Inverse Problems
         from a mathematical perspective.
     *  Note: [<img src="/images/pdf.png" width="25"/>](/files/PnP_ADMM.pdf) 
 
-Medical Image Registration
---------------------------
+On Medical Image Registration
+-----------------------------
 
 1. ### *Converting ANTs affine matrix to a $4 \times 4$ homogeneous matrix*
     *  Developed a 4-page note that demonstrates two methods of converting an affine matrix
@@ -41,8 +54,8 @@ Medical Image Registration
     *  The note also provide definitions of important terms and their mathematical formulations.
     *  Note: [<img src="/images/pdf.png" width="25"/>](/files/Registration.pdf)
 
-Mathematics
------------
+On Real Analysis
+----------------
 
 1. ### *Review Notes for MATH 522: Advanced Calculus II*
     *  Developed a 40-page note that summarizes the materials covered in MATH 522: Advanced Calculus II.
