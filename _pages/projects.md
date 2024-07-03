@@ -38,7 +38,10 @@ Tools
 1. ### *Pituitary Segmentation*
     *  Created an atlas-based command-line segmentation tool for automatic pituitary segmentation in 3D MR images. 
        The tool is based on the [MNI152 2009a Nonlinear Asymmetric atlas](https://www.bic.mni.mcgill.ca/ServicesAtlases/ICBM152NLin2009)
-       and a corresponding pituitary mask annotated by a radiologist.
+       and a corresponding pituitary mask annotated by a radiologist.\
+    *  Added functionality
+        *  Now providing the option to use multiple atlases for more robust segmentation results. 
+        *  The new command-line tool is written entirely in bash without dependency on Python and is based on the C++-based ANTs (instead of ANTsPy).
     *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/kvttt/Pituitary_Segmentation)
 
 2. ### *Spherical Harmonics Fitting*
