@@ -5,6 +5,19 @@ permalink: /notes/
 author_profile: true
 ---
 
+On Deep Learning
+----------------
+1. ### *Faster Convolution*
+    *  Developed a 8-page note introducing an alternative implementation of the convolution operation 
+       that is faster than the traditional convolution operation in some cases. The note also provides 
+       in-depth comparison between the traditional convolution operation and the proposed faster convolution operation.
+    *  The note includes:
+        *  A pseudocode outlining the alternative implementation.
+        *  A Python implementation.
+        *  Detailed experimental settings and detailed results including total CUDA times and CUDA time for each underlying operation.
+    *  The note offers insight into when and how to accelerate convolution operations during training/inference.
+    *  Note: [<img src="/images/pdf.png" width="25"/>](/files/Faster_Convolution.pdf)
+
 On Spherical Harmonics
 ----------------------
 1. ### *Spherical Harmonics Fitting*
