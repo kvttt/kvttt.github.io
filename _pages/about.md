@@ -29,11 +29,13 @@ You may find my CV here: [Kaibo's Curriculum Vitae](/files/Kaibo_Tang_CV.pdf).
 NEWS
 ----
 
-*6/27/2024* - A paper I helped revise was published in BMC Medicine! Du, Y., Li, C., Zhao, W. et al. Multimodal neuroimaging exploration of the mechanisms of sleep quality deterioration after SARS-CoV-2 Omicron infection. *BMC Med* **22**, 271 (2024). [https://doi.org/10.1186/s12916-024-03487-9](https://doi.org/10.1186/s12916-024-03487-9)
+*6/27/2024* - One paper I helped revise was published in BMC Medicine! Du, Y., Li, C., Zhao, W. et al. Multimodal neuroimaging exploration of the mechanisms of sleep quality deterioration after SARS-CoV-2 Omicron infection. *BMC Med* **22**, 271 (2024). [https://doi.org/10.1186/s12916-024-03487-9](https://doi.org/10.1186/s12916-024-03487-9)
 
 *5/21/2024* - [MONAI](https://monai.io/) 1.3.1 was released! I contributed three PRs for the release, 
               which added two new modules for image registration task, i.e., `VoxelMorph` and `DiffusionLoss`.
               To try out the latest version of MONAI, please run `pip install monai` or `conda install conda-forge::monai`.
+
+*5/13/2024* - One co-authored paper was early accepted to [MICCAI 2024](https://www.miccai2024.org/).
 
 *4/11/2024* - My paper accepted to [IEEE ISBI 2024](https://biomedicalimaging.org/2024/) was selected as an oral presentation.
 
@@ -102,7 +104,11 @@ PUBLICATIONS
 
 **Conference Publications:**
 
-1. **Kaibo Tang**, Liangjun Chen, Zhengwang Wu, Fenqiang Zhao, Ya Wang, Weili Lin, Li Wang, Gang Li. 
+1. Xiuyu Dong, Zhangwang Wu, Laifa Ma, Ya Wang, **Kaibo Tang**, He Zhang, Weili Lin, Gang Li. 
+Cycle-consistent Learning for Fetal Cortical Surface Reconstruction.
+Early accepted to MICCAI 2024.
+
+2. **Kaibo Tang**, Liangjun Chen, Zhengwang Wu, Fenqiang Zhao, Ya Wang, Weili Lin, Li Wang, Gang Li. 
 Generation of anatomy-realistic 4D infant brain atlases with tissue maps using generative adversarial networks. 
 Accepted to ISBI 2024 (Oral).
 
