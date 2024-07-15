@@ -9,10 +9,20 @@ author_profile: true
 
 A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include archive-single.html title="Projects" url="/projects/" %}
+{% include archive-single.html title="Notes" url="/notes/" %}
+{% include archive-single.html title="Professional Experiences" url="/experiences/" %}
+{% include archive-single.html title="About" url="/about/" %}
+{% include archive-single.html title="Sitemap" url="/sitemap/" %}
+{% include archive-single.html title="Videos" url="/videos/" %}
+
+[//]: # (<h2>Pages</h2>)
+
+[//]: # ({% for post in site.pages %})
+
+[//]: # (  {% include archive-single.html %})
+
+[//]: # ({% endfor %})
 
 [//]: # (<h2>Posts</h2>)
 
