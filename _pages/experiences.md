@@ -34,3 +34,5 @@ author_profile: true
   * Focused on setting up and benchmarking a computer cluster for the lab.
   * The final project was awarded the Best Peer Review Award. 
   * Supervisor: Dr. Timothy Brown
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>

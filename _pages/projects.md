@@ -105,3 +105,5 @@ Documentation
        The notebook includes details from how to setup the environment to how to run a trial run 
        and is available both in Chinese and English.
     *  Read the Docs: [<img src="/images/logo-dark.png" width="25"/>](https://opennft-notes.readthedocs.io/en/latest/)
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
