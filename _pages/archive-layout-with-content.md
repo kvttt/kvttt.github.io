@@ -1,177 +1,293 @@
----
-title: "Archive Layout with Content"
-layout: archive
-permalink: /archive-layout-with-content/
----
+[//]: # (---)
 
-A variety of common markup showing how the theme styles them.
+[//]: # (title: "Archive Layout with Content")
 
-# Header one
+[//]: # (layout: archive)
 
-## Header two
+[//]: # (permalink: /archive-layout-with-content/)
 
-### Header three
+[//]: # (---)
 
-#### Header four
+[//]: # ()
+[//]: # (A variety of common markup showing how the theme styles them.)
 
-##### Header five
+[//]: # ()
+[//]: # (# Header one)
 
-###### Header six
+[//]: # ()
+[//]: # (## Header two)
 
-## Blockquotes
+[//]: # ()
+[//]: # (### Header three)
 
-Single line blockquote:
+[//]: # ()
+[//]: # (#### Header four)
 
-> Quotes are cool.
+[//]: # ()
+[//]: # (##### Header five)
 
-## Tables
+[//]: # ()
+[//]: # (###### Header six)
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+[//]: # ()
+[//]: # (## Blockquotes)
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+[//]: # ()
+[//]: # (Single line blockquote:)
 
-## Definition Lists
+[//]: # ()
+[//]: # (> Quotes are cool.)
 
-Definition List Title
-:   Definition list division.
+[//]: # ()
+[//]: # (## Tables)
 
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
+[//]: # ()
+[//]: # (| Entry            | Item   |                                                              |)
 
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
+[//]: # (| --------         | ------ | ------------------------------------------------------------ |)
 
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
+[//]: # (| [John Doe]&#40;#&#41;    | 2016   | Description of the item in the list                          |)
 
-## Unordered Lists (Nested)
+[//]: # (| [Jane Doe]&#40;#&#41;    | 2019   | Description of the item in the list                          |)
 
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
+[//]: # (| [Doe Doe]&#40;#&#41;     | 2022   | Description of the item in the list                          |)
 
-## Ordered List (Nested)
+[//]: # ()
+[//]: # (| Header1 | Header2 | Header3 |)
 
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
+[//]: # (|:--------|:-------:|--------:|)
 
-## Buttons
+[//]: # (| cell1   | cell2   | cell3   |)
 
-Make any link standout more when applying the `.btn` class.
+[//]: # (| cell4   | cell5   | cell6   |)
 
-## Notices
+[//]: # (|-----------------------------|)
 
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
+[//]: # (| cell1   | cell2   | cell3   |)
 
-## HTML Tags
+[//]: # (| cell4   | cell5   | cell6   |)
 
-### Address Tag
+[//]: # (|=============================|)
 
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
+[//]: # (| Foot1   | Foot2   | Foot3   |)
 
-### Anchor Tag (aka. Link)
+[//]: # ()
+[//]: # (## Definition Lists)
 
-This is an example of a [link](http://github.com "Github").
+[//]: # ()
+[//]: # (Definition List Title)
 
-### Abbreviation Tag
+[//]: # (:   Definition list division.)
 
-The abbreviation CSS stands for "Cascading Style Sheets".
+[//]: # ()
+[//]: # (Startup)
 
-*[CSS]: Cascading Style Sheets
+[//]: # (:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.)
 
-### Cite Tag
+[//]: # ()
+[//]: # (#dowork)
 
-"Code is poetry." ---<cite>Automattic</cite>
+[//]: # (:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.)
 
-### Code Tag
+[//]: # ()
+[//]: # (Do It Live)
 
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
+[//]: # (:   I'll let Bill O'Reilly [explain]&#40;https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live"&#41; this one.)
 
-### Strike Tag
+[//]: # ()
+[//]: # (## Unordered Lists &#40;Nested&#41;)
 
-This tag will let you <strike>strikeout text</strike>.
+[//]: # ()
+[//]: # (  * List item one )
 
-### Emphasize Tag
+[//]: # (      * List item one )
 
-The emphasize tag should _italicize_ text.
+[//]: # (          * List item one)
 
-### Insert Tag
+[//]: # (          * List item two)
 
-This tag should denote <ins>inserted</ins> text.
+[//]: # (          * List item three)
 
-### Keyboard Tag
+[//]: # (          * List item four)
 
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
+[//]: # (      * List item two)
 
-### Preformatted Tag
+[//]: # (      * List item three)
 
-This tag styles large blocks of code.
+[//]: # (      * List item four)
 
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
+[//]: # (  * List item two)
 
-### Quote Tag
+[//]: # (  * List item three)
 
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
+[//]: # (  * List item four)
 
-### Strong Tag
+[//]: # ()
+[//]: # (## Ordered List &#40;Nested&#41;)
 
-This tag shows **bold text**.
+[//]: # ()
+[//]: # (  1. List item one )
 
-### Subscript Tag
+[//]: # (      1. List item one )
 
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
+[//]: # (          1. List item one)
 
-### Superscript Tag
+[//]: # (          2. List item two)
 
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
+[//]: # (          3. List item three)
 
-### Variable Tag
+[//]: # (          4. List item four)
 
-This allows you to denote <var>variables</var>.
+[//]: # (      2. List item two)
 
-{% include base_path %}
-{% for post in site.pages %}
-{% include archive-single.html %}
-{% endfor %}
+[//]: # (      3. List item three)
+
+[//]: # (      4. List item four)
+
+[//]: # (  2. List item two)
+
+[//]: # (  3. List item three)
+
+[//]: # (  4. List item four)
+
+[//]: # ()
+[//]: # (## Buttons)
+
+[//]: # ()
+[//]: # (Make any link standout more when applying the `.btn` class.)
+
+[//]: # ()
+[//]: # (## Notices)
+
+[//]: # ()
+[//]: # (**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.)
+
+[//]: # ({: .notice})
+
+[//]: # ()
+[//]: # (## HTML Tags)
+
+[//]: # ()
+[//]: # (### Address Tag)
+
+[//]: # ()
+[//]: # (<address>)
+
+[//]: # (  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States)
+
+[//]: # (</address>)
+
+[//]: # ()
+[//]: # (### Anchor Tag &#40;aka. Link&#41;)
+
+[//]: # ()
+[//]: # (This is an example of a [link]&#40;http://github.com "Github"&#41;.)
+
+[//]: # ()
+[//]: # (### Abbreviation Tag)
+
+[//]: # ()
+[//]: # (The abbreviation CSS stands for "Cascading Style Sheets".)
+
+[//]: # ()
+[//]: # (*[CSS]: Cascading Style Sheets)
+
+[//]: # ()
+[//]: # (### Cite Tag)
+
+[//]: # ()
+[//]: # ("Code is poetry." ---<cite>Automattic</cite>)
+
+[//]: # ()
+[//]: # (### Code Tag)
+
+[//]: # ()
+[//]: # (You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.)
+
+[//]: # ()
+[//]: # (### Strike Tag)
+
+[//]: # ()
+[//]: # (This tag will let you <strike>strikeout text</strike>.)
+
+[//]: # ()
+[//]: # (### Emphasize Tag)
+
+[//]: # ()
+[//]: # (The emphasize tag should _italicize_ text.)
+
+[//]: # ()
+[//]: # (### Insert Tag)
+
+[//]: # ()
+[//]: # (This tag should denote <ins>inserted</ins> text.)
+
+[//]: # ()
+[//]: # (### Keyboard Tag)
+
+[//]: # ()
+[//]: # (This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.)
+
+[//]: # ()
+[//]: # (### Preformatted Tag)
+
+[//]: # ()
+[//]: # (This tag styles large blocks of code.)
+
+[//]: # ()
+[//]: # (<pre>)
+
+[//]: # (.post-title {)
+
+[//]: # (  margin: 0 0 5px;)
+
+[//]: # (  font-weight: bold;)
+
+[//]: # (  font-size: 38px;)
+
+[//]: # (  line-height: 1.2;)
+
+[//]: # (  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;)
+
+[//]: # (})
+
+[//]: # (</pre>)
+
+[//]: # ()
+[//]: # (### Quote Tag)
+
+[//]: # ()
+[//]: # (<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer)
+
+[//]: # ()
+[//]: # (### Strong Tag)
+
+[//]: # ()
+[//]: # (This tag shows **bold text**.)
+
+[//]: # ()
+[//]: # (### Subscript Tag)
+
+[//]: # ()
+[//]: # (Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.)
+
+[//]: # ()
+[//]: # (### Superscript Tag)
+
+[//]: # ()
+[//]: # (Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.)
+
+[//]: # ()
+[//]: # (### Variable Tag)
+
+[//]: # ()
+[//]: # (This allows you to denote <var>variables</var>.)
+
+[//]: # ()
+[//]: # ({% include base_path %})
+
+[//]: # ({% for post in site.pages %})
+
+[//]: # ({% include archive-single.html %})
+
+[//]: # ({% endfor %})
