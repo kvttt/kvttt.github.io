@@ -3,6 +3,9 @@ permalink: /
 title: "About Myself"
 #excerpt: "About me"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am currently a rising senior at UNC Chapel Hill double majoring in Biostatistics, B.S.P.H. and Mathematics, B.S. with a minor in Chemistry. 
