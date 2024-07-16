@@ -77,7 +77,7 @@ was selected for funding by the [Summer Undergraduate Research Fellowship (SURF)
 
 [//]: # (* Distance: N/A)
 
-EDUCATION <img src="/images/Gillings.jpg" width="300"/> 
+EDUCATION <img src="/images/Gillings-S.png" width="300"/> 
 ---------
 
 * B.S.P.H. in Biostatistics, [UNC Chapel Hill](https://sph.unc.edu/bios/biostatistics/) (Chapel Hill, NC) (2021-2025)
