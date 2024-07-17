@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-ABOUT ME
+Kaibo Tang
 ========
 
 I am currently a rising senior at UNC Chapel Hill double majoring in Biostatistics, B.S.P.H. and Mathematics, B.S. with a minor in Chemistry. 
