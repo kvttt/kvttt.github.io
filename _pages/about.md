@@ -30,7 +30,7 @@ NEWS
               which added two new modules for image registration task, i.e., `VoxelMorph` and `DiffusionLoss`.
               To try out the latest version of MONAI, please run `pip install monai` or `conda install conda-forge::monai`.
 
-*5/13/2024* - One co-authored paper was early accepted to [MICCAI 2024](https://www.miccai2024.org/).
+*5/13/2024* - One co-authored paper was early accepted to [MICCAI 2024](https://conferences.miccai.org/2024/en/).
 
 *4/11/2024* - My paper accepted to [IEEE ISBI 2024](https://biomedicalimaging.org/2024/) was selected as an oral presentation.
 
