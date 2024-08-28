@@ -5,6 +5,9 @@ permalink: /notes/
 author_profile: true
 ---
 
+On MR Physics
+-------------
+
 On Deep Learning
 ----------------
 1. ### *Faster Convolution*
@@ -43,7 +46,14 @@ On Statistical Estimation
 On Ill-posed Inverse Problems
 -----------------------------
 
-1. ### *Plug-and-Play ADMM using MATLAB and PyTorch*
+1. ### *Tikhonov Regularized Linear Problem*
+    *  Developed a 6-page note on providing four different interpretations of Tikhonov regularization, which includes
+        1. Two interpretations from the standpoint of linear algebra,
+        2. One front a geometric perspective, and
+        3. One statistical interpretation.
+    *  Note: [<img src="/images/pdf.png" width="25"/>](/files/Tikhonov_Regularized_Linear_Problems.pdf) 
+
+2. ### *Plug-and-Play ADMM using MATLAB and PyTorch*
     *  Developed a 6-page tutorial on how to implement the Plug-and-Play ADMM algorithm using MATLAB and PyTorch.
     *  MATLAB is used to for solving the regularized least-squares problem associated with the first step.
     *  PyTorch is used to export a pre-trained denoiser model, which is plugged into the ADMM algorithm.
