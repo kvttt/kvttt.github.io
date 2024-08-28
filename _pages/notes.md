@@ -7,6 +7,10 @@ author_profile: true
 
 On MR Physics
 -------------
+1. ### *Bloch Equations*
+    *  Developed a 3-page note showing how one can derive the Bloch Equations from basic eletromagnetism and classical mechanics, along with some mild assumptions about the nature of $T_1$ and $T_2$ relaxation.
+    *  The note also demonstrates how one can find an exact solution to the Bloch Equations in the case of free induction decay (FID).
+    *  Note: [<img src="/images/pdf.png" width="25"/>](/files/Bloch_Equations.pdf)
 
 On Deep Learning
 ----------------
