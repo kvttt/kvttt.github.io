@@ -36,7 +36,10 @@ NEWS
 
 *4/11/2024* - My paper accepted to [IEEE ISBI 2024](https://biomedicalimaging.org/2024/) was selected as an oral presentation.
 
-*2/2/2024* - My first paper as the first author was accepted to [IEEE ISBI 2024](https://biomedicalimaging.org/2024/).
+*2/2/2024* - My first paper as the first author was accepted to [IEEE ISBI 2024](https://biomedicalimaging.org/2024/). 
+Check out the [paper](https://doi.org/10.1109/ISBI56570.2024.10635754), the [released code](https://github.com/kvttt/4DInfantAtlas), and the 4D infant brain atlases we generated:
+
+![4D Infant Brain Atlases](/images/atlas.jpg)
 
 [//]: # (*12/17/2023* - I went to [Winter Park]&#40;https://www.winterparkresort.com/&#41;, Colorado for a ski trip with my high school friends.)
 
