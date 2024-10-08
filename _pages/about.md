@@ -10,19 +10,21 @@ I am currently a rising senior at UNC Chapel Hill double majoring in Biostatisti
 
 I have been working at [UNC BRAIN Lab](https://bbm.web.unc.edu/) 
 in the [Biomedical Research Imaging Center (BRIC)](https://www.med.unc.edu/bric/) as a Research Assistant
-since September 2021. 
-Currently, I am also working as a Research Assistant at the [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org).
+since September 2021 under the supervision of Dr. Gang Li. 
+Currently, I am also working as a Research Assistant at the [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org) under the supervision of Dr. Fuyixue Wang and Dr. Zijing Dong.
 During regular semesters, I work as a Lab Assistant for BIOL 252L: Fundamentals of Human Anatomy and Physiology Lab. 
 I have been volunteering at the Emergency Department at UNC Hospitals since January 2023.
 
 In my free time, I enjoy snowboarding, badminton, cooking Chinese food, and [photography](https://kvttt.myportfolio.com/).
 
-I am looking for a Ph.D. position in BME or EECS starting in Fall 2025.
+I am looking for a Ph.D. position in Biophysics, Electrical Engineering, and/or Biomedical Engineering starting in Fall 2025.
 
 You may find my CV here: [Kaibo's Curriculum Vitae](/files/CV_Kaibo_Tang_2P.pdf).
 
 NEWS
 ----
+
+*9/20/2024* - One co-authored editorial was accepted to the Journal of Magnetic Resonance Imaging (JMRI)! 
 
 *6/27/2024* - One paper I helped revise was published in BMC Medicine! Du, Y., Li, C., Zhao, W. et al. Multimodal neuroimaging exploration of the mechanisms of sleep quality deterioration after SARS-CoV-2 Omicron infection. *BMC Med* **22**, 271 (2024). [https://doi.org/10.1186/s12916-024-03487-9](https://doi.org/10.1186/s12916-024-03487-9)
 
@@ -90,7 +92,7 @@ RESEARCH INTERESTS
 
 * Medical Image Analysis 
   * Volume- and surface-based registration
-  * Atlas construction for the early developing brain
+  * Atlas construction
 
 * Explainable Deep Learning
 
@@ -106,6 +108,13 @@ Early accepted to MICCAI 2024.
 2. **Kaibo Tang**, Liangjun Chen, Zhengwang Wu, Fenqiang Zhao, Ya Wang, Weili Lin, Li Wang, Gang Li. 
 Generation of anatomy-realistic 4D infant brain atlases with tissue maps using generative adversarial networks. 
 Accepted to ISBI 2024 (Oral).
+
+**Journal Publications:**
+
+1. Rong Lu, **Kaibo Tang**, Weijun Tang. 
+Editorial for "Improving Accuracy and Repeatability of Cartilage T2 Mapping in the OAI Dataset through Extended Phase Graph Modeling". 
+Accepted to the Journal of Magnetic Resonance Imaging.
+
 
 AWARDS & HONORS
 ---------------
