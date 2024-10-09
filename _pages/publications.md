@@ -8,7 +8,8 @@ author_profile: true
    * *Authors:* **Kaibo Tang**, Liangjun Chen, Zhengwang Wu, Fenqiang Zhao, Ya Wang, Weili Lin, Li Wang, Gang Li
     * *Published in:* 2024 IEEE International Symposium on Biomedical Imaging (ISBI)
     * *Paper link:* [https://doi.org/10.1109/ISBI56570.2024.10635754](https://doi.org/10.1109/ISBI56570.2024.10635754)
-    * *PDF:* [<img src="/images/pdf.png" width="25"/>](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10635754)
+    * *Paper PDF:* [<img src="/images/pdf.png" width="25"/>](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10635754)
+    * *Poster PDF:* [<img src="/images/pdf.png" width="25"/>](/files/902_poster_final.pdf)
     * *Description:* Coming soon!
       * Model architecture:
         ![Model architecture](/images/ISBI_fig1.png)
