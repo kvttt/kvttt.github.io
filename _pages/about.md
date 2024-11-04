@@ -115,7 +115,7 @@ Accepted to ISBI 2024 (Oral).
 **Journal Publications:**
 
 1. Rong Lu, **Kaibo Tang**, Weijun Tang. 
-Editorial for "Improving Accuracy and Repeatability of Cartilage T2 Mapping in the OAI Dataset through Extended Phase Graph Modeling". 
+Editorial for "Improving Accuracy and Repeatability of Cartilage $T_2$ Mapping in the OAI Dataset through Extended Phase Graph Modeling". 
 Accepted to the Journal of Magnetic Resonance Imaging.
 
 
