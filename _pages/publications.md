@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1. ***Editorial for "Improving Accuracy and Repeatability of Cartilage $T_2$ Mapping in the OAI Dataset through Extended Phase Graph Modeling"***
+1. ***Editorial for "Improving Accuracy and Repeatability of Cartilage*** $T_2$ ***Mapping in the OAI Dataset through Extended Phase Graph Modeling"***
    * *Authors:* Rong Lu, **Kaibo Tang**, Weijun Tang
     * *Published in:* Journal of Magnetic Resonance Imaging (JMRI)
     * *Paper link:* [https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.29647](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.29647)
