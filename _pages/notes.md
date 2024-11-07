@@ -90,21 +90,35 @@ On Medical Image Registration
     *  The note also provide definitions of important terms and their mathematical formulations.
     *  Note: [<img src="/images/pdf.png" width="25"/>](/files/Registration.pdf)
 
-On Real Analysis
-----------------
+[//]: # (On Real Analysis)
 
-1. ### *Review Notes for MATH 522: Advanced Calculus II*
-    *  Developed a 40-page note that summarizes the materials covered in MATH 522: Advanced Calculus II.
-    *  Topics covered in this note include: 
-       *  Metric spaces
-       *  Jordan content and Riemann integration
-       *  Differential forms
-       *  Surfaces
-       *  Functional analysis
-       *  ODE theory
-       *  Lebesgue measure and integration
-    *  The aim of this note is to organize the materials in a way that is easy to understand and to provide
-       a quick reference when studying for midterms and finals.
-    *  Note: [<img src="/images/pdf.png" width="25"/>](/files/522-notes.pdf)
+[//]: # (----------------)
+
+[//]: # ()
+[//]: # (1. ### *Review Notes for MATH 522: Advanced Calculus II*)
+
+[//]: # (    *  Developed a 40-page note that summarizes the materials covered in MATH 522: Advanced Calculus II.)
+
+[//]: # (    *  Topics covered in this note include: )
+
+[//]: # (       *  Metric spaces)
+
+[//]: # (       *  Jordan content and Riemann integration)
+
+[//]: # (       *  Differential forms)
+
+[//]: # (       *  Surfaces)
+
+[//]: # (       *  Functional analysis)
+
+[//]: # (       *  ODE theory)
+
+[//]: # (       *  Lebesgue measure and integration)
+
+[//]: # (    *  The aim of this note is to organize the materials in a way that is easy to understand and to provide)
+
+[//]: # (       a quick reference when studying for midterms and finals.)
+
+[//]: # (    *  Note: [<img src="/images/pdf.png" width="25"/>]&#40;/files/522-notes.pdf&#41;)
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
