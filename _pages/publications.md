@@ -4,11 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1. ***Editorial for "Improving Accuracy and Repeatability of Cartilage T2 Mapping in the OAI Dataset through Extended Phase Graph Modeling"***
+1. ***Editorial for "Improving Accuracy and Repeatability of Cartilage*** $T_2$ ***Mapping in the OAI Dataset through Extended Phase Graph Modeling"***
    * *Authors:* Rong Lu, **Kaibo Tang**, Weijun Tang
     * *Published in:* Journal of Magnetic Resonance Imaging (JMRI)
     * *Paper link:* [https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.29647](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.29647)
-    * *Citation:* Lu, R., Tang, K. and Tang, W. (2024), Editorial for “Improving Accuracy and Reproducibility of Cartilage T2 Mapping in the OAI Dataset Through Extended Phase Graph Modeling”. *J Magn Reson Imaging.* https://doi.org/10.1002/jmri.29647
+    * *Citation:* Lu, R., Tang, K. and Tang, W. (2024), Editorial for “Improving Accuracy and Reproducibility of Cartilage $T_2$ Mapping in the OAI Dataset Through Extended Phase Graph Modeling”. *J Magn Reson Imaging.* https://doi.org/10.1002/jmri.29647
 
 2. ***Cycle-Consistent Learning for Fetal Cortical Surface Reconstruction***
    * *Authors:* Xiuyu Dong, Zhangwang Wu, Laifa Ma, Ya Wang, **Kaibo Tang**, He Zhang, Weili Lin, Gang Li
