@@ -40,7 +40,7 @@ On Spherical Harmonics
     *  The note covers both the technical and practical aspects of spherical harmonics fitting.
         *  The technical aspect includes three different formulations of the least squares problem associated with spherical harmonics fitting and the derivation of a regularizer.
         *  The practical aspect includes line-by-line explanation of the usage of the toolbox using a simple example of reconstructing a tensor-valued orientation distribution function (ODF).
-    * Note: [<img src="/images/pdf.png" width="25"/>](/files/Spherical_Harmonics_Fitting.pdf)
+    * Note: [<img src="/images/pdf.png" width="25"/>](/files/Spherical_Harmonics_Fitting.pdf) 
 
 On Statistical Estimation
 -------------------------
