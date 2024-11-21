@@ -19,7 +19,7 @@ In my free time, I enjoy snowboarding, badminton, cooking Chinese food, and [pho
 
 I am looking for a Ph.D. position in Biophysics, Electrical Engineering, and/or Biomedical Engineering starting in Fall 2025.
 
-You may find my CV here: [Kaibo's Curriculum Vitae](/files/CV_Kaibo_Tang_2P.pdf).
+You may find my CV here: [Kaibo's Curriculum Vitae](/files/Kaibo_Tang_CV.pdf).
 
 NEWS
 ----
