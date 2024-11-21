@@ -14,7 +14,14 @@ On MR Physics
 
 On Deep Learning
 ----------------
-1. ### *Faster Convolution*
+1. ### *A Collection of Frequently Asked Questions about Denoising Diffusion Probabilistic Models*
+    *  Developed a 8-page note that explains some of the most important concepts regarding denoising diffusion probabilistic models (DDPMs).
+    *  The note mainly seeks to answer two questions:
+        *  Does the forward process tend to $\mathcal{N}(\mathbf{0}, \mathbf{I})$?
+        *  How do you get from NLL to $L_\mathrm{simple}$?
+    *  Note: [<img src="/images/pdf.png" width="25"/>](/files/DDPM_FAQ.pdf)
+
+2. ### *Faster Convolution*
     *  Developed a 8-page note introducing an alternative implementation of the convolution operation 
        that is faster than the traditional convolution operation in some cases. The note also provides 
        in-depth comparison between the traditional convolution operation and the proposed faster convolution operation.
