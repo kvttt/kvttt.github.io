@@ -5,7 +5,7 @@ permalink: /experiences/
 author_profile: true
 ---
 
-* May 2024 - Present: **Research Assistant**
+* March 2024 - Present: **Research Assistant**
   * ***Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital***, *Charlestown, MA*
   * Currently working on a project on accelerating mesoscale diffusion MRI (dMRI) acquisition.
   * Supervisor: Dr. Fuyixue Wang and Dr. Zijing Dong
