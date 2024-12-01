@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-Contributions <img src="/images/MONAI-logo-color.png" height="50"/> <img src="/images/dipy-logo.png" height="50"/>
+Contributions <img src="/images/dipy-logo.png"/> <img src="/images/MONAI-logo-color.png"/> 
 -------------
 1. ### *Contributed to [DIPY/DIPY](https://github.com/dipy/dipy)*
     *  Opened and merged pull request [#3237](https://github.com/dipy/dipy/pull/3237), 
