@@ -6,18 +6,18 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a rising senior at UNC Chapel Hill double majoring in Biostatistics, B.S.P.H. and Mathematics, B.S. with a minor in Chemistry. 
+I am currently a senior at UNC-Chapel Hill double majoring in Biostatistics, B.S.P.H. and Mathematics, B.S. with a minor in Chemistry. 
 
 I have been working at [UNC BRAIN Lab](https://bbm.web.unc.edu/) 
-in the [Biomedical Research Imaging Center (BRIC)](https://www.med.unc.edu/bric/) as a Research Assistant
+in the [Biomedical Research Imaging Center (BRIC)](https://www.med.unc.edu/bric/) at UNC-Chapel Hill as a Research Assistant
 since September 2021 under the supervision of Dr. Gang Li. 
-Currently, I am also working as a Research Assistant at the [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org) under the supervision of Dr. Fuyixue Wang and Dr. Zijing Dong.
-During regular semesters, I work as a Lab Assistant for BIOL 252L: Fundamentals of Human Anatomy and Physiology Lab. 
+Currently, I am also working as a Research Assistant at the [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org) at Massachusetts General Hospital under the supervision of Dr. Fuyixue Wang and Dr. Zijing Dong.
+During regular semesters, I work as a Learning Assistant for BIOL 252L: Fundamentals of Human Anatomy and Physiology Laboratory. 
 I have been volunteering at the Emergency Department at UNC Hospitals since January 2023.
 
 In my free time, I enjoy snowboarding, badminton, cooking Chinese food, and [photography](https://kvttt.myportfolio.com/).
 
-I am looking for a Ph.D. position in Biophysics, Electrical Engineering, and/or Biomedical Engineering starting in Fall 2025.
+I am looking for a Ph.D. position in Biophysics, Electrical Engineering, Computer Science, and/or Biomedical Engineering starting in Fall 2025.
 
 You may find my CV here: [Kaibo's Curriculum Vitae](/files/Kaibo_Tang_CV.pdf).
 
@@ -90,11 +90,11 @@ EDUCATION <img src="/images/Gillings-S.png" width="300"/>
 RESEARCH INTERESTS
 ------------------
 
-* Magnetic Resonance Imaging (MRI)
-  * Diffusion MRI (dMRI) accelerated acquisition and reconstruction
+* Medical image acquisition and reconstruction
+  * Diffusion MRI (dMRI) accelerated acquisition and reconstruction 
 
-* Medical Image Analysis 
-  * Volume- and surface-based registration
+* Medical image analysis 
+  * Volume and surface registrations
   * Atlas construction
 
 * Explainable Deep Learning
@@ -106,11 +106,11 @@ PUBLICATIONS
 
 1. Xiuyu Dong, Zhangwang Wu, Laifa Ma, Ya Wang, **Kaibo Tang**, He Zhang, Weili Lin, Gang Li. 
 Cycle-consistent Learning for Fetal Cortical Surface Reconstruction.
-Early accepted to MICCAI 2024.
+Early accepted by MICCAI 2024.
 
 2. **Kaibo Tang**, Liangjun Chen, Zhengwang Wu, Fenqiang Zhao, Ya Wang, Weili Lin, Li Wang, Gang Li. 
 Generation of anatomy-realistic 4D infant brain atlases with tissue maps using generative adversarial networks. 
-Accepted to ISBI 2024 (Oral).
+Accepted by ISBI 2024 (Oral).
 
 **Journal Publications:**
 
@@ -131,6 +131,6 @@ AWARDS & HONORS
 TEACHING
 --------
 
-1. Learning Assistant for BIOL 252L: Fundamentals of Anatomy and Physiology Lab.
+1. Learning Assistant for BIOL 252L: Fundamentals of Anatomy and Physiology Laboratory.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>

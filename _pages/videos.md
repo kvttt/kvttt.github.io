@@ -15,7 +15,7 @@ author_profile: true
     *  Developed an 8-minute video explaining the important mathematical concepts behind DARTEL, a toolbox in SPM designated to perform diffeomorphic registration between two images.
     *  Video: [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/M-yeL2f7J_U)
 4. ### *Multivariable Calculus Final Review*
-    *  Developed an 8-minute video explaining Green’s Theorem, Stokes’ Theorem, and the Divergence Theorem as a preparation for the final exam for MATH 233H (Multivariable Calculus Honors).
+    *  Developed an 8-minute video explaining Green’s Theorem, Stokes’ Theorem, and the Divergence Theorem as a preparation for the final exam for MATH 233H: Calculus of Functions of Several Variables Honors).
     *  Video: [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/qRK7K-cbvdQ)
 5. ### *Biography of Jewel Plummer Cobb: The Woman Who Breaks "Filters"*
     *  Developed a 10-minute video introducing the life of Jewel Plummer Cobb, an African American biochemist who made significant contributions to the field of cancer research and devoted her life to increasing representation for underrepresented groups in science.

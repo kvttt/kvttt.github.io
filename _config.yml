@@ -84,7 +84,7 @@ author:
   avatar           : "Kaibo.jpg"
   bio              : "Research Assistant@UNC BRAIN Lab | Research Assistant@Martinos Center"
   location         : "Charlestown, MA"
-  employer         : "UNC Chapel Hill"
+  employer         : "UNC-Chapel Hill"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=OFbYxzsAAAAJ"
   email            : "ktang@unc.edu"
@@ -99,7 +99,7 @@ author:
   github           : "kvttt"
   google_plus      :
   keybase          :
-  instagram        : "kaibotang233"
+  instagram        : #"kaibotang233"
 #  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "kaibotang"

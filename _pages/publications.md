@@ -8,13 +8,13 @@ author_profile: true
    * *Authors:* Rong Lu, **Kaibo Tang**, Weijun Tang
     * *Published in:* Journal of Magnetic Resonance Imaging (JMRI)
     * *Paper link:* [https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.29647](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.29647)
-    * *Citation:* Lu, R., Tang, K. and Tang, W. (2024), Editorial for “Improving Accuracy and Reproducibility of Cartilage $T_2$ Mapping in the OAI Dataset Through Extended Phase Graph Modeling”. *J Magn Reson Imaging.* https://doi.org/10.1002/jmri.29647
+    * *Citation:* 
+      * *AMA:* Lu R, Tang K, Tang W. Editorial for “Improving Accuracy and Reproducibility of Cartilage $T_2$ Mapping in the OAI Dataset Through Extended Phase Graph Modeling”. *Magnetic Resonance Imaging.* Published online October 30, 2024:jmri.29647. doi:10.1002/jmri.29647
 
 2. ***Cycle-Consistent Learning for Fetal Cortical Surface Reconstruction***
    * *Authors:* Xiuyu Dong, Zhangwang Wu, Laifa Ma, Ya Wang, **Kaibo Tang**, He Zhang, Weili Lin, Gang Li
     * *Published in:* Medical Image Computing and Computer Assisted Intervention – MICCAI 2024
     * *Paper link:* [https://link.springer.com/chapter/10.1007/978-3-031-72104-5_21](https://link.springer.com/chapter/10.1007/978-3-031-72104-5_21)
-    * *PDF:* /
     * *Description:*
       * Model architecture:
         ![Model architecture](/images/cc1.png)
@@ -27,7 +27,6 @@ author_profile: true
    * *Authors:* **Kaibo Tang**, Liangjun Chen, Zhengwang Wu, Fenqiang Zhao, Ya Wang, Weili Lin, Li Wang, Gang Li
     * *Published in:* 2024 IEEE International Symposium on Biomedical Imaging (ISBI)
     * *Paper link:* [https://ieeexplore.ieee.org/abstract/document/10635754](https://ieeexplore.ieee.org/abstract/document/10635754)
-    * *Paper PDF:* [<img src="/images/pdf.png" width="25"/>](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10635754)
     * *Poster PDF:* [<img src="/images/pdf.png" width="25"/>](/files/902_poster_final.pdf)
     * *Description:*
       * Model architecture:
