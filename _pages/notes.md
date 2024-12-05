@@ -101,7 +101,7 @@ On Real Analysis
 ----------------
 
 1. ### *Review Notes for MATH 653: Introductory Analysis*
-    *  Developed a 31-page note that summarizes the materials covered in MATH 653: Introductory Analysis, 
+    *  Developed a 34-page note that summarizes the materials covered in MATH 653: Introductory Analysis, 
        a graduate-level analysis course I have taken during my senior year at UNC-Chapel Hill.
     *  Topics covered in this note include:
        *  Metric spaces
@@ -110,6 +110,7 @@ On Real Analysis
        *  Compactness in function spaces
        *  Density and approximation in function spaces
        *  Existence and uniqueness for systems of ODEs
+       *  Complex analysis
     *  The aim of this note is to organize the materials in a way that is easy to understand and to provide
        a quick reference when studying for midterms and finals.
     *  Note: [<img src="/images/pdf.png" width="25"/>](/files/653-notes.pdf)
