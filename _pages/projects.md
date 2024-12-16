@@ -32,7 +32,7 @@ Contributions
        which adds a new registration regularizer `DiffusionLoss` in addition to the existing `BendingEnergyLoss`.
     *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/Project-MONAI/MONAI/blob/dev/monai/losses/deform.py)
 
- 
+
 Tools
 -----
 1. ### *Cortical Surface Quality Control*
