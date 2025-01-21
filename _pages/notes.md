@@ -8,7 +8,7 @@ author_profile: true
 On MR Physics
 -------------
 1. ### *Bloch Equations*
-    *  Developed a 3-page note showing how one can derive the Bloch Equations from basic eletromagnetism and classical mechanics, along with some mild assumptions about the nature of $T_1$ and $T_2$ relaxation.
+    *  Developed a 3-page note showing how one can derive the Bloch Equations from basic eletromagnetism and classical mechanics, along with some mild assumptions about the nature of \\(T_1\\) and \\(T_2\\) relaxation.
     *  The note also demonstrates how one can find an exact solution to the Bloch Equations in the case of free induction decay (FID).
     *  Note: [<img src="/images/pdf.png" width="25"/>](/files/Bloch_Equations.pdf)
 
@@ -17,8 +17,8 @@ On Deep Learning
 1. ### *A Collection of Frequently Asked Questions about Denoising Diffusion Probabilistic Models*
     *  Developed an 8-page note that explains some of the most important concepts regarding denoising diffusion probabilistic models (DDPMs).
     *  The note mainly seeks to answer two questions:
-        *  Does the forward process tend to $\mathcal{N}(\mathbf{0}, \mathbf{I})$?
-        *  How do you get from NLL to $L_\mathrm{simple}$?
+        *  Does the forward process tend to \\(\mathcal{N}(\mathbf{0}, \mathbf{I})\\)?
+        *  How do you get from NLL to \\(L_\mathrm{simple}\\)?
     *  Note: [<img src="/images/pdf.png" width="25"/>](/files/DDPM_FAQ.pdf)
 
 2. ### *Faster Convolution*
@@ -83,7 +83,7 @@ On Medical Image Registration
 
 1. ### *Converting ANTs affine matrix to a $4 \times 4$ homogeneous matrix*
     *  Developed a 4-page note that demonstrates two methods of converting an affine matrix
-       obtained from ANTs to a $4 \times 4$ homogeneous matrix,
+       obtained from ANTs to a \\(4 \times 4\\) homogeneous matrix,
        which can be subsequently incorporated into a pipeline
        dealing with both image volumes and surfaces.
     *  The aim of this note is to provide a clear and concise explanation of the mathematical
