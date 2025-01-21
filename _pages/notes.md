@@ -81,7 +81,7 @@ On Ill-posed Inverse Problems
 On Medical Image Registration
 -----------------------------
 
-1. ### *Converting ANTs affine matrix to a $4 \times 4$ homogeneous matrix*
+1. ### *Converting ANTs affine matrix to a \\(4 \times 4\\) homogeneous matrix*
     *  Developed a 4-page note that demonstrates two methods of converting an affine matrix
        obtained from ANTs to a \\(4 \times 4\\) homogeneous matrix,
        which can be subsequently incorporated into a pipeline
@@ -130,4 +130,4 @@ On Real Analysis
        a quick reference when studying for midterms and finals.
     *  Note: [<img src="/images/pdf.png" width="25"/>](/files/522-notes.pdf)
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+[//]: # (<br/><br/><br/><br/><br/><br/><br/><br/><br/>)

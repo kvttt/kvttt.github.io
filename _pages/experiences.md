@@ -14,7 +14,7 @@ author_profile: true
   * Proposed a physics-driven and deep-prior-regularized reconstruction algorithm, 
     which affords four-fold accelerated Romer-EPTI with equivalent, 
     if not better, image quality compared to fully sampled Romer-EPTI,
-    achieving fast in vivo mesoscale dMRI at 500-$\mu$m isotropic resolution on a clinical 3T scanner within a clinically acceptable 20-minute timeframe.
+    achieving fast in vivo mesoscale dMRI at 500-\\(\mu\\)m isotropic resolution on a clinical 3T scanner within a clinically acceptable 20-minute timeframe.
 
 * Sep 2021 - Present: **Research Assistant**
   * ***Department of Radiology and Biomedical Research and Imaging Center (BRIC), UNC Chapel Hill***, *Chapel Hill, NC*
@@ -52,4 +52,4 @@ author_profile: true
   * Focused on setting up and benchmarking a computer cluster for the lab.
   * The final project was awarded the Best Peer Review Award.
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+[//]: # (<br/><br/><br/><br/><br/><br/><br/><br/><br/>)

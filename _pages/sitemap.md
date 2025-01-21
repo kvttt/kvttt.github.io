@@ -54,4 +54,4 @@ A list of all the posts and pages found on the site. For you robots out there is
 
 [//]: # ({% endfor %})
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+[//]: # (<br/><br/><br/><br/><br/><br/><br/><br/><br/>)

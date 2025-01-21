@@ -147,4 +147,4 @@ TEACHING
 
 1. Learning Assistant for BIOL 252L: Fundamentals of Anatomy and Physiology Laboratory.
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+[//]: # (<br/><br/><br/><br/><br/><br/><br/><br/><br/>)

@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1. ***Editorial for "Improving Accuracy and Repeatability of Cartilage*** $T_2$ ***Mapping in the OAI Dataset through Extended Phase Graph Modeling"***
+1. ***Editorial for "Improving Accuracy and Repeatability of Cartilage*** \\(T_2\\) ***Mapping in the OAI Dataset through Extended Phase Graph Modeling"***
    * *Authors:* Rong Lu, **Kaibo Tang**, Weijun Tang
     * *Published in:* Journal of Magnetic Resonance Imaging (JMRI)
     * *Paper link:* [https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.29647](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.29647)
@@ -38,4 +38,4 @@ author_profile: true
     * *Citation:*
       * *AMA:* Tang K, Chen L, Wu Z, et al. Generation of Anatomy-Realistic 4D Infant Brain Atlases with Tissue Maps Using Generative Adversarial Networks. In: *2024 IEEE International Symposium on Biomedical Imaging (ISBI).*; 2024:1-5. doi:10.1109/ISBI56570.2024.10635754
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+[//]: # (<br/><br/><br/><br/><br/><br/><br/><br/><br/>)
