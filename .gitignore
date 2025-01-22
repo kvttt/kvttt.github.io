@@ -11,3 +11,11 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# Ignore the directory for local files during development
+/.idea/kvttt.github.io.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
