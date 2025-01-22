@@ -8,7 +8,7 @@ redirect_from:
 
 I am currently a senior at UNC-Chapel Hill double majoring in Biostatistics, B.S.P.H. and Mathematics, B.S. with a minor in Chemistry. 
 
-I have been working at [UNC BRAIN Lab](https://bbm.web.unc.edu/) 
+I have been working at the [UNC BRAIN Lab](https://bbm.web.unc.edu/) 
 in the [Biomedical Research Imaging Center (BRIC)](https://www.med.unc.edu/bric/) at UNC Chapel Hill as a Research Assistant
 since September 2021 under the supervision of Dr. Gang Li. 
 My work focuses on developing infant-dedicated deep learning tools for image registration and volumetric atlas construction for the early developing brain.
