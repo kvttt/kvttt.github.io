@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a senior at UNC-Chapel Hill double majoring in Biostatistics, B.S.P.H. and Mathematics, B.S. with a minor in Chemistry. 
+I am currently a senior at UNC Chapel Hill double majoring in Biostatistics, B.S.P.H. and Mathematics, B.S. with a minor in Chemistry. 
 
 I have been working at the [UNC BRAIN Lab](https://bbm.web.unc.edu/) 
 in the [Biomedical Research Imaging Center (BRIC)](https://www.med.unc.edu/bric/) at UNC Chapel Hill as a Research Assistant
@@ -123,7 +123,7 @@ Cycle-consistent Learning for Fetal Cortical Surface Reconstruction.
 Early accepted by MICCAI 2024.
 
 2. **Kaibo Tang**, Liangjun Chen, Zhengwang Wu, Fenqiang Zhao, Ya Wang, Weili Lin, Li Wang, Gang Li. 
-Generation of anatomy-realistic 4D infant brain atlases with tissue maps using generative adversarial networks. 
+Generation of Anatomy-Realistic 4D Infant Brain Atlases with Tissue Maps Using Generative Adversarial Networks. 
 Accepted by ISBI 2024 (Oral).
 
 **Journal Publications:**

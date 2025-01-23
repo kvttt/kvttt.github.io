@@ -10,7 +10,7 @@ author_profile: true
   * Supervisor: **Dr. Fuyixue Wang and Dr. Zijing Dong**
   * Explored Romer-EPTI, 
     a novel MR sequence and reconstruction technique for in vivo mesoscale dMRI.
-    Studied Plug-and-Play Alternating Direction Method of Multiplier for medical image reconstruction.
+    Studied Plug-and-Play Alternating Direction Method of Multiplier (ADMM) for medical image reconstruction.
   * Proposed a physics-driven and deep-prior-regularized reconstruction algorithm, 
     which affords four-fold accelerated Romer-EPTI with equivalent, 
     if not better, image quality compared to fully sampled Romer-EPTI,
@@ -23,7 +23,7 @@ author_profile: true
     * Conducted a preliminary study investigating the effect of leveraging auxiliary data to improve the accuracy of
       deep learning-based image registration for infant brain MR images. This work is supported in part by the
       Summer Undergraduate Research Fellowship award ($4,000) offered by the UNC Office of Undergraduate
-      Research.
+      Research (OUR).
   * **Volumetric atlas construction for the early developing brain**
     * Explored the lab’s previous work on infant brain atlas construction. Studied the challenges of applying
       existing deep learning-based atlas construction frameworks to fetal and infant brain MR images due to low
