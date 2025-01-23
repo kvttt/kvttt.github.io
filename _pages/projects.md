@@ -5,13 +5,16 @@ permalink: /projects/
 author_profile: true
 ---
 
+
 Contributions
 -------------
+
 1. ### *Contributed to [DIPY/DIPY](https://github.com/dipy/dipy)*
     *  Opened and merged pull request [#3237](https://github.com/dipy/dipy/pull/3237), 
        which deprecates the old `interp_rbf` function, which only supports interpolation of scalar-valued spherical functions,
        and replaces it with a new `rbf_interpolation` function that supports interpolation of tensor-valued spherical functions.
     *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/dipy/dipy/blob/master/dipy/core/interpolation.pyx)
+
 2. ### *Contributed to [Project MONAI/tutorials](https://github.com/Project-MONAI/tutorials)*
     *  Opened and merged pull request [#1566](https://github.com/Project-MONAI/tutorials/pull/1566), 
        which adds a tutorial on leveraging the newly implemented `VoxelMorph` class 
@@ -22,6 +25,7 @@ Contributions
        which adds a notebook demonstrating the scaling laws 
        regarding the newly added `BendingEnergyLoss` and `DiffusionLoss`.
     *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/Project-MONAI/tutorials/blob/main/modules/bending_energy_diffusion_loss_notes.ipynb)
+
 3. ### *Contributed to [Project MONAI/MONAI](https://github.com/Project-MONAI/MONAI)*
     *  Opened and merged pull request [#7178](https://github.com/Project-MONAI/MONAI/pull/7178)
        in response to a feature request proposed in issue [#5484](https://github.com/Project-MONAI/MONAI/issues/5484),
@@ -35,6 +39,7 @@ Contributions
 
 Tools
 -----
+
 1. ### *Cortical Surface Quality Control*
     *  Created a tool for quality control of cortical surfaces (both pial and white surfaces with cortical thickness and curvature overlaid).
     *  The tool creates PDFs containing visualized cortical surfaces, and corresponding CSV files for experts to performance quality assessment.
@@ -110,6 +115,7 @@ Tools
      *  Created a little script that can be easily used on any PyTorch project to visualize the spectral profile 
         of a generated (or any) image (either 2D or 3D) based on Fast Fourier Transform (FFT).
      *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/kvttt/SpectralProfile)
+
 
 Documentation
 -------------

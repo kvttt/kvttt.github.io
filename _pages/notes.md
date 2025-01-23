@@ -5,15 +5,19 @@ permalink: /notes/
 author_profile: true
 ---
 
+
 On MR Physics
 -------------
+
 1. ### *Bloch Equations*
     *  Developed a 3-page note showing how one can derive the Bloch Equations from basic eletromagnetism and classical mechanics, along with some mild assumptions about the nature of \\(T_1\\) and \\(T_2\\) relaxation.
     *  The note also demonstrates how one can find an exact solution to the Bloch Equations in the case of free induction decay (FID).
     *  Note: [<img src="/images/pdf.png" width="25"/>](/files/Bloch_Equations.pdf)
 
+
 On Deep Learning
 ----------------
+
 1. ### *A Collection of Frequently Asked Questions about Denoising Diffusion Probabilistic Models*
     *  Developed an 8-page note that explains some of the most important concepts regarding denoising diffusion probabilistic models (DDPMs).
     *  The note mainly seeks to answer two questions:
@@ -32,8 +36,10 @@ On Deep Learning
     *  The note offers insight into when and how to accelerate convolution operations during training/inference.
     *  Note: [<img src="/images/pdf.png" width="25"/>](/files/Faster_Convolution.pdf)
 
+
 On Spherical Harmonics
 ----------------------
+
 1. ### *Spherical Harmonics Fitting*
     *  Developed a 7-page note which serves as an accompanying note for the MATLAB toolbox 
        [Spherical Harmonics Fitting](https://www.mathworks.com/matlabcentral/fileexchange/168591-spherical-harmonics-fitting).
@@ -41,6 +47,7 @@ On Spherical Harmonics
         *  The technical aspect includes three different formulations of the least squares problem associated with spherical harmonics fitting and the derivation of a regularizer.
         *  The practical aspect includes line-by-line explanation of the usage of the toolbox using a simple example of reconstructing a tensor-valued orientation distribution function (ODF).
     * Note: [<img src="/images/pdf.png" width="25"/>](/files/Spherical_Harmonics_Fitting.pdf) 
+
 
 On Statistical Estimation
 -------------------------
@@ -53,6 +60,7 @@ On Statistical Estimation
         * Corollary 3: Consistency of the estimator obtained by minimization of the approximated objective function based on sampling.
     *  The note also includes explanation of the motivation behind score matching and clarification of some of the mild yet essential regularity assumptions omitted by the author.
     *  Note: [<img src="/images/pdf.png" width="25"/>](/files/Score_Matching.pdf)
+
 
 On Ill-posed Inverse Problems
 -----------------------------
@@ -78,6 +86,7 @@ On Ill-posed Inverse Problems
         from a mathematical perspective.
     *  Note: [<img src="/images/pdf.png" width="25"/>](/files/PnP_ADMM.pdf) 
 
+
 On Medical Image Registration
 -----------------------------
 
@@ -97,6 +106,7 @@ On Medical Image Registration
        in the field of deformable image registration. 
     *  The note also provide definitions of important terms and their mathematical formulations.
     *  Note: [<img src="/images/pdf.png" width="25"/>](/files/Registration.pdf)
+
 
 On Real Analysis
 ----------------

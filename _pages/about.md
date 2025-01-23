@@ -6,6 +6,7 @@ redirect_from:
   - /about.html
 ---
 
+
 I am currently a senior at UNC Chapel Hill double majoring in Biostatistics, B.S.P.H. and Mathematics, B.S. with a minor in Chemistry. 
 
 I have been working at the [UNC BRAIN Lab](https://bbm.web.unc.edu/) 
@@ -23,6 +24,7 @@ In my free time, I enjoy snowboarding, badminton, cooking Chinese food, and [pho
 I am looking for a Ph.D. position in Biophysics, Electrical Engineering, Computer Science, and/or Biomedical Engineering starting in Fall 2025.
 
 You may find my CV here: [Kaibo's Curriculum Vitae](/files/Kaibo_Tang_CV.pdf).
+
 
 NEWS
 ----
@@ -84,12 +86,14 @@ was selected for funding by the [Summer Undergraduate Research Fellowship (SURF)
 
 [//]: # (* Distance: N/A)
 
+
 EDUCATION <img src="/images/Gillings-S.png" width="300"/> 
 ---------
 
 * B.S.P.H. in Biostatistics, [UNC Chapel Hill](https://sph.unc.edu/bios/biostatistics/) (Chapel Hill, NC) (2021-2025)
 
 * B.S. in Mathematics, [UNC Chapel Hill](https://math.unc.edu/) (Chapel Hill, NC) (2021-2025)
+
 
 RESEARCH INTERESTS
 ------------------
@@ -113,6 +117,7 @@ Here is a list of areas that I am particularly interested in:
 
 * Explainable Deep Learning
 
+
 PUBLICATIONS
 ------------
 
@@ -120,17 +125,27 @@ PUBLICATIONS
 
 1. Xiuyu Dong, Zhangwang Wu, Laifa Ma, Ya Wang, **Kaibo Tang**, He Zhang, Weili Lin, Gang Li. 
 Cycle-consistent Learning for Fetal Cortical Surface Reconstruction.
-Early accepted by MICCAI 2024.
+*Early accepted by MICCAI 2024.*
 
 2. **Kaibo Tang**, Liangjun Chen, Zhengwang Wu, Fenqiang Zhao, Ya Wang, Weili Lin, Li Wang, Gang Li. 
 Generation of Anatomy-Realistic 4D Infant Brain Atlases with Tissue Maps Using Generative Adversarial Networks. 
-Accepted by ISBI 2024 (Oral).
+*Accepted by ISBI 2024 (Oral).*
 
 **Journal Publications:**
 
 1. Rong Lu, **Kaibo Tang**, Weijun Tang. 
 Editorial for "Improving Accuracy and Repeatability of Cartilage \\(T_2\\) Mapping in the OAI Dataset through Extended Phase Graph Modeling". 
-Accepted to the Journal of Magnetic Resonance Imaging.
+*Journal of Magnetic Resonance Imaging.*
+
+**Work in Progress:**
+
+1. **Kaibo Tang**, Zijing Dong, Lawrence L. Wald, Fuyixue Wang. 
+Accelerated Romer-EPTI using physics-driven, joint x-q attention-network regularized reconstruction for fast mesoscale diffusion MRI. Under review at ISMRM 2025.
+*Under review at ISMRM 2025.*
+
+2. Yanyao Du, Dan Hu, Zhengwang Wu, Ya Wang, Jiahe Wang, Jiale Cheng, Xinrui Yuan, **Kaibo Tang**, Jun Liu, Karen Grewen, Gang Li. 
+Changes in Perivascular Space Parameters in Infants with Prenatal Drug Exposure. 
+*Under review.*
 
 
 AWARDS & HONORS
