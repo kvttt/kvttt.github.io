@@ -140,7 +140,7 @@ Editorial for "Improving Accuracy and Repeatability of Cartilage \\(T_2\\) Mappi
 **Work in Progress:**
 
 1. **Kaibo Tang**, Zijing Dong, Lawrence L. Wald, Fuyixue Wang. 
-Accelerated Romer-EPTI using physics-driven, joint x-q attention-network regularized reconstruction for fast mesoscale diffusion MRI. Under review at ISMRM 2025.
+Accelerated Romer-EPTI using physics-driven, joint x-q attention-network regularized reconstruction for fast mesoscale diffusion MRI.
 *Under review at ISMRM 2025.*
 
 2. Yanyao Du, Dan Hu, Zhengwang Wu, Ya Wang, Jiahe Wang, Jiale Cheng, Xinrui Yuan, **Kaibo Tang**, Jun Liu, Karen Grewen, Gang Li. 
