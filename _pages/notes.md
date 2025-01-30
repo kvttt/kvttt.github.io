@@ -108,8 +108,13 @@ On Medical Image Registration
     *  Note: [<img src="/images/pdf.png" width="25"/>](/files/Registration.pdf)
 
 
-On Real Analysis
+On Mathematical Analysis
 ----------------
+
+1. ### *All Hilbert spaces are \\(\ell^2-\\)spaces*
+    *  Developed a 4-page note that made explicit the sense in which all Hilbert spaces are \\(\ell^2-\\)spaces.
+    *  I will continue filling in the proofs and examples in the future. Stay tuned!
+    *  Note: [<img src="/images/pdf.png" width="25"/>](/files/hilbert_l2.pdf)
 
 1. ### *Review Notes for MATH 653: Introductory Analysis*
     *  Developed a 34-page note that summarizes the materials covered in MATH 653: Introductory Analysis, 
