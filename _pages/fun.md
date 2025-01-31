@@ -6,6 +6,6 @@ author_profile: true
 ---
 
 
-This place is for fun stuff and intrusive thoughts I have. Stay tuned!
+This place is for fun stuff related to math. Stay tuned! 
 
 [//]: # (<br/><br/><br/><br/><br/><br/><br/><br/><br/>)
