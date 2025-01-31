@@ -18,5 +18,8 @@ main:
   - title: "Videos"
     url: /videos/
 
+  - title: "Fun Stuff"
+    url: /fun/
+
   - title: "Photography"
     url: https://kvttt.myportfolio.com/
