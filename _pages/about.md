@@ -29,6 +29,9 @@ You may find my CV here: [Kaibo's Curriculum Vitae](/files/Kaibo_Tang_CV.pdf).
 NEWS
 ----
 
+*1/31/2025* - My abstract on accelerating mesoscale in vivo dMRI was selected for an in-person oral power pitch presentation at the [2025 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/25m/). 
+              See y'all in Hawaii :)
+
 *9/20/2024* - One co-authored editorial was accepted to the [Journal of Magnetic Resonance Imaging (JMRI)](https://onlinelibrary.wiley.com/journal/15222586)! Check out the editorial [here](https://doi.org/10.1002/jmri.29647).
 
 *6/27/2024* - One paper I helped revise was published in BMC Medicine! Check out the paper [here](https://doi.org/10.1186/s12916-024-03487-9).
