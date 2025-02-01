@@ -126,11 +126,15 @@ PUBLICATIONS
 
 **Conference Publications:**
 
-1. Xiuyu Dong, Zhangwang Wu, Laifa Ma, Ya Wang, **Kaibo Tang**, He Zhang, Weili Lin, Gang Li. 
+1. **Kaibo Tang**, Zijing Dong, Lawrence L. Wald, Fuyixue Wang. 
+Accelerated Romer-EPTI using physics-driven, joint x-q attention-network regularized reconstruction for fast mesoscale diffusion MRI.
+*Accepted by ISMRM 2025 (Power Pitch).*
+
+2. Xiuyu Dong, Zhangwang Wu, Laifa Ma, Ya Wang, **Kaibo Tang**, He Zhang, Weili Lin, Gang Li. 
 Cycle-consistent Learning for Fetal Cortical Surface Reconstruction.
 *Early accepted by MICCAI 2024.*
 
-2. **Kaibo Tang**, Liangjun Chen, Zhengwang Wu, Fenqiang Zhao, Ya Wang, Weili Lin, Li Wang, Gang Li. 
+3. **Kaibo Tang**, Liangjun Chen, Zhengwang Wu, Fenqiang Zhao, Ya Wang, Weili Lin, Li Wang, Gang Li. 
 Generation of Anatomy-Realistic 4D Infant Brain Atlases with Tissue Maps Using Generative Adversarial Networks. 
 *Accepted by ISBI 2024 (Oral).*
 
@@ -142,11 +146,7 @@ Editorial for "Improving Accuracy and Repeatability of Cartilage \\(T_2\\) Mappi
 
 **Work in Progress:**
 
-1. **Kaibo Tang**, Zijing Dong, Lawrence L. Wald, Fuyixue Wang. 
-Accelerated Romer-EPTI using physics-driven, joint x-q attention-network regularized reconstruction for fast mesoscale diffusion MRI.
-*Under review at ISMRM 2025.*
-
-2. Yanyao Du, Dan Hu, Zhengwang Wu, Ya Wang, Jiahe Wang, Jiale Cheng, Xinrui Yuan, **Kaibo Tang**, Jun Liu, Karen Grewen, Gang Li. 
+1. Yanyao Du, Dan Hu, Zhengwang Wu, Ya Wang, Jiahe Wang, Jiale Cheng, Xinrui Yuan, **Kaibo Tang**, Jun Liu, Karen Grewen, Gang Li. 
 Changes in Perivascular Space Parameters in Infants with Prenatal Drug Exposure. 
 *Under review.*
 
