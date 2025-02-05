@@ -128,15 +128,15 @@ PUBLICATIONS
 
 1. **Kaibo Tang**, Zijing Dong, Lawrence L. Wald, Fuyixue Wang. 
 Accelerated Romer-EPTI using physics-driven, joint x-q attention-network regularized reconstruction for fast mesoscale diffusion MRI.
-*Accepted by ISMRM 2025 (Power Pitch).*
+*ISMRM 2025 (power pitch).*
 
 2. Xiuyu Dong, Zhangwang Wu, Laifa Ma, Ya Wang, **Kaibo Tang**, He Zhang, Weili Lin, Gang Li. 
 Cycle-consistent Learning for Fetal Cortical Surface Reconstruction.
-*Early accepted by MICCAI 2024.*
+*MICCAI 2024 (early acceptance).*
 
 3. **Kaibo Tang**, Liangjun Chen, Zhengwang Wu, Fenqiang Zhao, Ya Wang, Weili Lin, Li Wang, Gang Li. 
 Generation of Anatomy-Realistic 4D Infant Brain Atlases with Tissue Maps Using Generative Adversarial Networks. 
-*Accepted by ISBI 2024 (Oral).*
+*ISBI 2024 (oral).*
 
 **Journal Publications:**
 
