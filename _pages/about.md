@@ -148,7 +148,7 @@ Editorial for "Improving Accuracy and Repeatability of Cartilage \\(T_2\\) Mappi
 
 1. Yanyao Du, Dan Hu, Zhengwang Wu, Ya Wang, Jiahe Wang, Jiale Cheng, Xinrui Yuan, **Kaibo Tang**, Jun Liu, Karen Grewen, Gang Li. 
 Changes in Perivascular Space Parameters in Infants with Prenatal Drug Exposure. 
-*Under review.*
+*Under review at Radiology.*
 
 
 AWARDS & HONORS
