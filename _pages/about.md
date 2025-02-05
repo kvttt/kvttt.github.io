@@ -144,11 +144,21 @@ Generation of Anatomy-Realistic 4D Infant Brain Atlases with Tissue Maps Using G
 Editorial for "Improving Accuracy and Repeatability of Cartilage \\(T_2\\) Mapping in the OAI Dataset through Extended Phase Graph Modeling". 
 *Journal of Magnetic Resonance Imaging.*
 
-**Work in Progress:**
+[//]: # (**Work in Progress:**)
 
-1. Yanyao Du, Dan Hu, Zhengwang Wu, Ya Wang, Jiahe Wang, Jiale Cheng, Xinrui Yuan, **Kaibo Tang**, Jun Liu, Karen Grewen, Gang Li. 
-Changes in Perivascular Space Parameters in Infants with Prenatal Drug Exposure. 
-*Under review at Radiology.*
+[//]: # ()
+[//]: # (1. Yanyao Du, Dan Hu, Zhengwang Wu, Ya Wang, Jiahe Wang, Jiale Cheng, Xinrui Yuan, **Kaibo Tang**, Jun Liu, Karen Grewen, Gang Li. )
+
+[//]: # (Changes in Perivascular Space Parameters in Infants with Prenatal Drug Exposure. )
+
+[//]: # (*Under review.*)
+
+[//]: # ()
+[//]: # (2. Rong Lu, Run Pan, **Kaibo Tang**, Shangxuan Shi, Xiao'ao Xue, Tingfang Hwang, Yang Song, Weijun Tang, Yue Yu, Stephen Zhou, Yao Lu, Ting Lin.  )
+
+[//]: # (Multi-Omic Analysis of the Biological Relationship Between Programmed Cell Death and Osteoarthritis.)
+
+[//]: # (*Under review.*)
 
 
 AWARDS & HONORS
