@@ -29,7 +29,7 @@ You may find my CV here: [Kaibo's Curriculum Vitae](/files/Kaibo_Tang_CV.pdf).
 NEWS
 ----
 
-*2/20/2025* - I was awarded the Trainee Stipend for the [2025 ISMRM & SMRT Annual Meeting & Exhibition](https://www.ismrm.org/25m/). See y'all in Hawaii :)
+*2/20/2025* - I was awarded the Trainee Stipend for the [2025 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/25m/). See y'all in Hawaii :)
 
 *1/31/2025* - My abstract on accelerating mesoscale in vivo dMRI was selected for an in-person oral power pitch presentation at the [2025 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/25m/).
 
