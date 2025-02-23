@@ -111,12 +111,29 @@ On Medical Image Registration
 On Mathematical Analysis
 ----------------
 
-1. ### *All Hilbert spaces are \\(\ell^2-\\)spaces*
+1. ### *Review Notes for MATH 754: Introductory Functional Analysis*
+    * Developed a 12-page note that summarizes the materials covered in MATH 754: Introductory Functional Analysis so far, 
+      a graduate-level functional analysis course I am currently taking.
+    * Topics covered in this note include:
+      * Finite dimensional normed spaces
+      * Hilbert spaces
+      * Banach spaces
+      * Fréchet spaces
+      * Topological vector spaces
+      * Duality
+    * Main theorems include:
+      * Riesz Representation theorem
+      * Riesz-Fisher theorem
+      * Hahn-Banach theorem
+      * Banach-Alaoglu theorem
+    * This note is a work in progress. Stay tuned!
+
+2. ### *All Hilbert spaces are \\(\ell^2-\\)spaces*
     *  Developed a 4-page note that made explicit the sense in which all Hilbert spaces are \\(\ell^2-\\)spaces.
     *  I will continue filling in the proofs and examples in the future. Stay tuned!
     *  Note: [<img src="/images/pdf.png" width="25"/>](/files/hilbert_l2.pdf)
 
-1. ### *Review Notes for MATH 653: Introductory Analysis*
+3. ### *Review Notes for MATH 653: Introductory Analysis*
     *  Developed a 34-page note that summarizes the materials covered in MATH 653: Introductory Analysis, 
        a graduate-level analysis course I have taken during my senior year at UNC-Chapel Hill.
     *  Topics covered in this note include:
@@ -131,14 +148,13 @@ On Mathematical Analysis
        a quick reference when studying for midterms and finals.
     *  Note: [<img src="/images/pdf.png" width="25"/>](/files/653-notes.pdf)
 
-2. ### *Review Notes for MATH 522: Advanced Calculus II*
+4. ### *Review Notes for MATH 522: Advanced Calculus II*
     *  Developed a 40-page note that summarizes the materials covered in MATH 522: Advanced Calculus II.
     *  Topics covered in this note include:
        *  Metric spaces
        *  Jordan content and Riemann integration
        *  Differential forms
        *  Surfaces
-       *  Functional analysis
        *  ODE theory
        *  Lebesgue measure and integration
     *  The aim of this note is to organize the materials in a way that is easy to understand and to provide
