@@ -6,6 +6,15 @@ author_profile: true
 ---
 
 
+On Microstructure Imaging
+-------------------------
+
+1. ### *Causality of the diffusion propagator*
+    *  Developed a 4-page note that provides both an intuitive and mathematical explanation of the causality of the diffusion propagator.
+    *  Fun fact: the content of this note was inspired by an integral problem Dmitry asked me to solve during my interview with him at NYU.
+    *  Note: [<img src="/images/pdf.png" width="25"/>](/files/causality.pdf)
+
+
 On MR Physics
 -------------
 
