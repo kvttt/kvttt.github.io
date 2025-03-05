@@ -11,7 +11,7 @@ author_profile: true
     * *Published in:* Journal of Magnetic Resonance Imaging (JMRI)
     * *Paper link:* [https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.29647](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.29647)
     * *Citation:* 
-      * *AMA:* Lu R, Tang K, Tang W. Editorial for “Improving Accuracy and Reproducibility of Cartilage $T_2$ Mapping in the OAI Dataset Through Extended Phase Graph Modeling”. *Magnetic Resonance Imaging.* Published online October 30, 2024:jmri.29647. doi:10.1002/jmri.29647
+      * *AMA:* Lu R, Tang K, Tang W. Editorial for “Improving Accuracy and Reproducibility of Cartilage \\(T_2\\) Mapping in the OAI Dataset Through Extended Phase Graph Modeling”. *Magnetic Resonance Imaging.* Published online October 30, 2024:jmri.29647. doi:10.1002/jmri.29647
 
 2. **Cycle-Consistent Learning for Fetal Cortical Surface Reconstruction**
    * *Authors:* Xiuyu Dong, Zhangwang Wu, Laifa Ma, Ya Wang, **Kaibo Tang**, He Zhang, Weili Lin, Gang Li
