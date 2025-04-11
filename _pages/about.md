@@ -21,7 +21,7 @@ I have been volunteering at the Emergency Department at UNC Hospitals since Janu
 
 In my free time, I enjoy snowboarding, badminton, cooking Chinese food, and [photography](https://kvttt.myportfolio.com/).
 
-I am looking for a Ph.D. position in Biophysics, Electrical Engineering, Computer Science, and/or Biomedical Engineering starting in Fall 2025.
+[//]: # (I am looking for a Ph.D. position in Biophysics, Electrical Engineering, Computer Science, and/or Biomedical Engineering starting in Fall 2025.)
 
 You may find my CV here: [Kaibo's Curriculum Vitae](/files/Kaibo_Tang_CV.pdf).
 

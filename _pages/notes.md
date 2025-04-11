@@ -95,6 +95,10 @@ On Ill-posed Inverse Problems
         from a mathematical perspective.
     *  Note: [<img src="/images/pdf.png" width="25"/>](/files/PnP_ADMM.pdf) 
 
+3. ### *ADMM Phantom Study*
+    *  Developed a Jupyter Notebook that demonstrates the effect of different \\(\alpha\\) and \\(\rho\\) schedules on the convergence of the ADMM algorithm.
+    *  Note: [<img src="/images/pdf.png" width="25"/>](/files/admmphantomstudy.pdf)
+
 
 On Medical Image Registration
 -----------------------------
