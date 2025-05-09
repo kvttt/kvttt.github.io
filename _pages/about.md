@@ -7,21 +7,20 @@ redirect_from:
 ---
 
 
-I am currently a senior at UNC Chapel Hill double majoring in Biostatistics, B.S.P.H. and Mathematics, B.S. with a minor in Chemistry. 
+I recently graduated from UNC Chapel Hill with a Bachelor of Science in Public Health in Biostatistics, a Bachelor of Science in Mathematics, and a minor in Chemistry. 
 
-I have been working at the [UNC BRAIN Lab](https://bbm.web.unc.edu/) 
-in the [Biomedical Research Imaging Center (BRIC)](https://www.med.unc.edu/bric/) at UNC Chapel Hill as a Research Assistant
+During my time at UNC Chapel Hill, I had worked at the [UNC BRAIN Lab](https://bbm.web.unc.edu/) 
+in the [Biomedical Research Imaging Center (BRIC)](https://www.med.unc.edu/bric/) as a Research Assistant
 since September 2021 under the supervision of Dr. Gang Li. 
 My work focuses on developing infant-dedicated deep learning tools for image registration and volumetric atlas construction for the early developing brain.
 
 Currently, I am a visiting student at the [Advanced MRI Acquisition Lab](https://mriacq-lab.martinos.org) at the [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org) at Massachusetts General Hospital under the supervision of Dr. Fuyixue Wang and Dr. Zijing Dong.
+My research focuses on developing deep learning reconstruction and accelerated acquisition methods to achieve fast and robust mesoscale diffusion MRI in vivo.
 
-During regular semesters, I work as a Learning Assistant for BIOL 252L: Fundamentals of Human Anatomy and Physiology Laboratory. 
-I have been volunteering at the Emergency Department at UNC Hospitals since January 2023.
+I previously worked as a Learning Assistant for BIOL 252L: Fundamentals of Human Anatomy and Physiology Laboratory for 4 semesters. 
+I had also been volunteering at the Emergency Department at UNC Hospitals for 2 years since January 2023.
 
 In my free time, I enjoy snowboarding, badminton, cooking Chinese food, and [photography](https://kvttt.myportfolio.com/).
-
-[//]: # (I am looking for a Ph.D. position in Biophysics, Electrical Engineering, Computer Science, and/or Biomedical Engineering starting in Fall 2025.)
 
 You may find my CV here: [Kaibo's Curriculum Vitae](/files/Kaibo_Tang_CV.pdf).
 
@@ -94,9 +93,11 @@ was selected for funding by the [Summer Undergraduate Research Fellowship (SURF)
 EDUCATION <img src="/images/Gillings-S.png" width="300"/> 
 ---------
 
-* B.S.P.H. in Biostatistics, [UNC Chapel Hill](https://sph.unc.edu/bios/biostatistics/) (Chapel Hill, NC) (2021-2025)
+* B.S.P.H. in Biostatistics, [UNC Chapel Hill](https://sph.unc.edu/bios/biostatistics/), Chapel Hill, NC, 2021–2025
 
-* B.S. in Mathematics, [UNC Chapel Hill](https://math.unc.edu/) (Chapel Hill, NC) (2021-2025)
+* B.S. in Mathematics, [UNC Chapel Hill](https://math.unc.edu/), Chapel Hill, NC, 2021–2025
+
+* Minor in Chemistry, [UNC Chapel Hill](https://chem.unc.edu/), Chapel Hill, NC, 2021–2025
 
 
 RESEARCH INTERESTS
@@ -124,6 +125,35 @@ Here is a list of areas that I am particularly interested in:
 
 PUBLICATIONS
 ------------
+
+**Manuscripts Under Review:**
+1. Yanyao Du, Dan Hu, Zhengwang Wu, Ya Wang, Jiahe Wang, Jiale Cheng, Xinrui Yuan, **Kaibo Tang**, Jun Liu, Karen Grewen, Gang Li. 
+Abnormal Perivascular Space Parameters in Infants with Prenatal Substance Exposure. 
+Under review at *Nature Human Behavior*.
+
+2. Rong Lu, **Kaibo Tang**, Run Pan, Shangxuan Shi, Xiao'ao Xue, Tingfang Hwang, Yang Song, Weijun Tang, Yue Yu, He Wang, Yao Lu, Ting Lin. 
+The Biological Association Between Programmed Cell Death Function and OA Using Multi-Omic Mendelian Randomization. 
+*Under review at eBioMedicine*.
+
+3. Jiaqi Zhang, Yanyao Du, ..., **Kaibo Tang**, ..., Tianzi Jiang. 
+Stage-dependent Neural Mechanisms in Human Methamphetamine Abstinence: Insights from the Digital Twin Brain Model. 
+*Under review at Biological Psychiatry*.
+
+4. **Kaibo Tang**, Xiuyu Dong, Zhengwang Wu, Laifa Ma, He Zhang, Gang Li. 
+Surface-Guided Construction of 4D Volumetric Atlases of Fetal Brains. 
+*Under review at MICCAI 2025*.
+
+5. Xiuyu Dong, **Kaibo Tang**, Zhengwang Wu, Dan Hu, Weili Lin, Gang Li. 
+Lifespan Cortical Surface Reconstruction from Thick-Slice Clinical MRI. 
+*Under review at MICCAI 2025*.
+
+6. Kai Zhang, Dan Hu, **Kaibo Tang**, Shijie Huang, He Zhang, Zhengwang Wu, Weili Lin, Gang Li, Dinggang Shen. 
+Continuous Spatio-Temporal Representation with Implicit Neural Networks for Fetal Brain MRI Atlas Construction. 
+*Under review at MICCAI 2025*.
+
+7. Ruike Chen, Mingyang Li, ..., **Kaibo Tang**, ..., Dan Wu. 
+Advances in Magnetic Resonance Imaging of the Developing Brain and its Application in Pediatrics. 
+*Under review at World Journal of Pediatrics*.
 
 **Conference Publications:**
 
