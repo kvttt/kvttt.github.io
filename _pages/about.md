@@ -32,10 +32,6 @@ NEWS
 
 *1/31/2025* - My abstract on accelerating mesoscale in vivo dMRI was selected for an in-person oral power pitch presentation at the [2025 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/25m/).
 
-*9/20/2024* - One co-authored editorial was accepted to the [Journal of Magnetic Resonance Imaging (JMRI)](https://onlinelibrary.wiley.com/journal/15222586)! Check out the editorial [here](https://doi.org/10.1002/jmri.29647).
-
-*6/27/2024* - One paper I helped revise was published in BMC Medicine! Check out the paper [here](https://doi.org/10.1186/s12916-024-03487-9).
-
 *5/21/2024* - [MONAI](https://monai.io/) 1.3.1 was released! I contributed three PRs for the release, 
               which added two new modules for image registration task, i.e., `VoxelMorph` and `DiffusionLoss`.
               To try out the latest version of MONAI, please run `pip install monai` or `conda install conda-forge::monai`.
@@ -50,45 +46,14 @@ Check out the [paper](https://doi.org/10.1109/ISBI56570.2024.10635754), the [rel
 
 ![4D Infant Brain Atlases](/images/atlas.jpg)
 
-[//]: # (*12/17/2023* - I went to [Winter Park]&#40;https://www.winterparkresort.com/&#41;, Colorado for a ski trip with my high school friends.)
-
-[//]: # (* Lift Vertical: 86,549 ft)
-
-[//]: # (* Lifts Ridden: 63)
-
-[//]: # (* Days on Mountain: 9)
-
-[//]: # (* Distance: 108 mi)
-
 *10/31/2023* - I was inducted into 
 [Phi Beta Kappa at UNC Chapel Hill](https://uncnews.unc.edu/2023/10/31/259-students-inducted-into-phi-beta-kappa-at-unc-chapel-hill/).
 
 *3/8/2023* - I was admitted to the [Biostatistics (B.S.P.H.)](https://sph.unc.edu/bios/biostatistics/) major 
 in [Gillings School of Global Public Health](https://sph.unc.edu/).
 
-[//]: # (*12/11/2022* - I went to [Heavenly]&#40;https://www.skiheavenly.com/&#41; in South Lake Tahoe, California again for a ski trip with my high school friends.)
-
-[//]: # (* Lift Vertical: 100,348 ft)
-
-[//]: # (* Lifts Ridden: 99)
-
-[//]: # (* Days on Mountain: 11)
-
-[//]: # (* Distance: 111.94 mi)
-
 *4/4/2022* - My project, Registering Infant Brain MR Image with Auxiliary Data, 
 was selected for funding by the [Summer Undergraduate Research Fellowship (SURF)](https://our.unc.edu/fund/surf/).
-
-[//]: # (*12/14/2022* - I went to [Heavenly]&#40;https://www.skiheavenly.com/&#41; in South Lake Tahoe, California for a ski trip with my high school friends.)
-
-[//]: # (* Lift Vertical: 43,731 ft)
-
-[//]: # (* Lifts Ridden: 43)
-
-[//]: # (* Days on Mountain: 6)
-
-[//]: # (* Distance: N/A)
-
 
 EDUCATION <img src="/images/Gillings-S.png" width="300"/> 
 ---------
@@ -129,31 +94,15 @@ PUBLICATIONS
 **Manuscripts Under Review:**
 1. Yanyao Du, Dan Hu, Zhengwang Wu, Ya Wang, Jiahe Wang, Jiale Cheng, Xinrui Yuan, **Kaibo Tang**, Jun Liu, Karen Grewen, Gang Li. 
 Abnormal Perivascular Space Parameters in Infants with Prenatal Substance Exposure. 
-Under review at *Nature Human Behavior*.
+Under review at *Radiology*.
 
 2. Rong Lu, **Kaibo Tang**, Run Pan, Shangxuan Shi, Xiao'ao Xue, Tingfang Hwang, Yang Song, Weijun Tang, Yue Yu, He Wang, Yao Lu, Ting Lin. 
 The Biological Association Between Programmed Cell Death Function and OA Using Multi-Omic Mendelian Randomization. 
 *Under review at eBioMedicine*.
 
-3. Jiaqi Zhang, Yanyao Du, ..., **Kaibo Tang**, ..., Tianzi Jiang. 
-Stage-dependent Neural Mechanisms in Human Methamphetamine Abstinence: Insights from the Digital Twin Brain Model. 
-*Under review at Biological Psychiatry*.
-
-4. **Kaibo Tang**, Xiuyu Dong, Zhengwang Wu, Laifa Ma, He Zhang, Gang Li. 
-Surface-Guided Construction of 4D Volumetric Atlases of Fetal Brains. 
-*Under review at MICCAI 2025*.
-
-5. Xiuyu Dong, **Kaibo Tang**, Zhengwang Wu, Dan Hu, Weili Lin, Gang Li. 
+3. Xiuyu Dong, **Kaibo Tang**, Zhengwang Wu, Dan Hu, Weili Lin, Gang Li. 
 Lifespan Cortical Surface Reconstruction from Thick-Slice Clinical MRI. 
 *Under review at MICCAI 2025*.
-
-6. Kai Zhang, Dan Hu, **Kaibo Tang**, Shijie Huang, He Zhang, Zhengwang Wu, Weili Lin, Gang Li, Dinggang Shen. 
-Continuous Spatio-Temporal Representation with Implicit Neural Networks for Fetal Brain MRI Atlas Construction. 
-*Under review at MICCAI 2025*.
-
-7. Ruike Chen, Mingyang Li, ..., **Kaibo Tang**, ..., Dan Wu. 
-Advances in Magnetic Resonance Imaging of the Developing Brain and its Application in Pediatrics. 
-*Under review at World Journal of Pediatrics*.
 
 **Conference Publications:**
 
@@ -171,25 +120,21 @@ Generation of Anatomy-Realistic 4D Infant Brain Atlases with Tissue Maps Using G
 
 **Journal Publications:**
 
-1. Rong Lu, **Kaibo Tang**, Weijun Tang. 
+1. Rong Lu, Tingfang Hwang, **Kaibo Tang**, Qing Li, Caixia Fu, Ying-Hua Chu, Shangxuan Shi, Tobias Kober, Tom Hibert, Bin Lu, Yiming Li, Yao Lu, Weijun Tang, Lijin Ji.
+A noninvasive accelerated quantitative MR technique to distinguish drug resistance in prolactinomas: Early results.
+*Biomedical Technology*. 2025.
+
+1. Ruike Chen, Mingyang Li, ..., **Kaibo Tang**, ..., Dan Wu. 
+Advances in Magnetic Resonance Imaging of the Developing Brain and its Application in Pediatrics. 
+*World Journal of Pediatrics*. 2025.
+
+1. Jiaqi Zhang, Yanyao Du, ..., **Kaibo Tang**, ..., Tianzi Jiang. 
+Stage-dependent Neural Mechanisms in Human Methamphetamine Abstinence: Insights from the Digital Twin Brain Model. 
+*Biological Psychiatry*. 2025.
+
+2. Rong Lu, **Kaibo Tang**, Weijun Tang. 
 Editorial for "Improving Accuracy and Repeatability of Cartilage \\(T_2\\) Mapping in the OAI Dataset through Extended Phase Graph Modeling". 
-*Journal of Magnetic Resonance Imaging.*
-
-[//]: # (**Work in Progress:**)
-
-[//]: # ()
-[//]: # (1. Yanyao Du, Dan Hu, Zhengwang Wu, Ya Wang, Jiahe Wang, Jiale Cheng, Xinrui Yuan, **Kaibo Tang**, Jun Liu, Karen Grewen, Gang Li. )
-
-[//]: # (Changes in Perivascular Space Parameters in Infants with Prenatal Drug Exposure. )
-
-[//]: # (*Under review.*)
-
-[//]: # ()
-[//]: # (2. Rong Lu, Run Pan, **Kaibo Tang**, Shangxuan Shi, Xiao'ao Xue, Tingfang Hwang, Yang Song, Weijun Tang, Yue Yu, Stephen Zhou, Yao Lu, Ting Lin.  )
-
-[//]: # (Multi-Omic Analysis of the Biological Relationship Between Programmed Cell Death and Osteoarthritis.)
-
-[//]: # (*Under review.*)
+*Journal of Magnetic Resonance Imaging.* 2025.
 
 
 AWARDS & HONORS
@@ -205,5 +150,3 @@ TEACHING
 --------
 
 1. Learning Assistant for BIOL 252L: Fundamentals of Anatomy and Physiology Laboratory.
-
-[//]: # (<br/><br/><br/><br/><br/><br/><br/><br/><br/>)

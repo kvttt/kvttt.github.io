@@ -25,5 +25,3 @@ author_profile: true
 5. ### *Biography of Jewel Plummer Cobb: The Woman Who Breaks "Filters"*
     *  Developed a 10-minute video introducing the life of Jewel Plummer Cobb, an African American biochemist who made significant contributions to the field of cancer research and devoted her life to increasing representation for underrepresented groups in science.
     *  Video: [<img src="/images/youtube-logo-png.png" width="25"/>](https://youtu.be/VpVidLm0Hno)
-
-[//]: # (<br/><br/><br/><br/><br/><br/><br/><br/><br/>)

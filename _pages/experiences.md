@@ -17,7 +17,7 @@ author_profile: true
     if not better, image quality compared to fully sampled Romer-EPTI,
     achieving fast in vivo mesoscale dMRI at 500-\\(\mu\\)m isotropic resolution on a clinical 3T scanner within a clinically acceptable 20-minute timeframe.
 
-* Sep 2021 - Present: **Research Assistant**
+* Sep 2021 - May 2025: **Research Assistant**
   * ***Department of Radiology and Biomedical Research and Imaging Center (BRIC), UNC Chapel Hill***, *Chapel Hill, NC*
   * Supervisor: **Dr. Gang Li**
   * **Infant-Dedicated MR Image Registration**
@@ -36,12 +36,12 @@ author_profile: true
     * Currently working on extending the proposed framework to model fetal brain developmental trajectory by
       leveraging additional anatomical information from reconstructed pial and white matter surfaces.
 
-* Jan 2023 - Present: **Learning Assistant**
+* Jan 2023 - December 2024: **Learning Assistant**
   * ***Department of Biology, UNC Chapel Hill***, *Chapel Hill, NC*
   * Currently working as a Learning Assistant for BIOL 252L: Fundamentals of Human Anatomy and Physiology Laboratory.
   * Responsible for answering questions in class, holding office hours before exams, and proctoring exams.
 
-* Jan 2023 - Present: **Undergraduate Volunteer**
+* Jan 2023 - December 2024: **Undergraduate Volunteer**
   * ***Emergency Department, UNC Medical Center***, *Chapel Hill, NC*
   * Currently working 2 hours every Wednesday night in the Emergency Department at UNC Hospitals.
   * Responsible for answering call bells, rounding on patients, and helping with tubing stations.
@@ -52,5 +52,3 @@ author_profile: true
   * Partly responsible for a meta-analysis project.
   * Focused on setting up and benchmarking a computer cluster for the lab.
   * The final project was awarded the Best Peer Review Award.
-
-[//]: # (<br/><br/><br/><br/><br/><br/><br/><br/><br/>)

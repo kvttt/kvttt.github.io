@@ -9,13 +9,20 @@ author_profile: true
 Contributions
 -------------
 
-1. ### *Contributed to [DIPY/DIPY](https://github.com/dipy/dipy)*
+1. ### *Contributed to [mfuderer/colorResources](https://github.com/mfuderer/colorResources)*
+    *  Opened and merged pull request [#9](https://github.com/mfuderer/colorResources/pull/9), 
+       which adds a Python reimplementation of the recommended color-map for MR relaxometry maps 
+       by the Quantitative MR Study Group of the International Society for Magnetic Resonance in Medicine (ISMRM).
+    *  For additional details, check out [Color-map recommendation for MR relaxometry maps](https://onlinelibrary.wiley.com/doi/10.1002/mrm.30290).
+    *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/mfuderer/colorResources/blob/main/exampleUse.py)
+
+2. ### *Contributed to [DIPY/DIPY](https://github.com/dipy/dipy)*
     *  Opened and merged pull request [#3237](https://github.com/dipy/dipy/pull/3237), 
        which deprecates the old `interp_rbf` function, which only supports interpolation of scalar-valued spherical functions,
        and replaces it with a new `rbf_interpolation` function that supports interpolation of tensor-valued spherical functions.
     *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/dipy/dipy/blob/master/dipy/core/interpolation.pyx)
 
-2. ### *Contributed to [Project MONAI/tutorials](https://github.com/Project-MONAI/tutorials)*
+3. ### *Contributed to [Project MONAI/tutorials](https://github.com/Project-MONAI/tutorials)*
     *  Opened and merged pull request [#1566](https://github.com/Project-MONAI/tutorials/pull/1566), 
        which adds a tutorial on leveraging the newly implemented `VoxelMorph` class 
        to perform 3D image registration task on [Learn2Reg 2021](https://learn2reg.grand-challenge.org/Learn2Reg2021/) 
@@ -26,7 +33,7 @@ Contributions
        regarding the newly added `BendingEnergyLoss` and `DiffusionLoss`.
     *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/Project-MONAI/tutorials/blob/main/modules/bending_energy_diffusion_loss_notes.ipynb)
 
-3. ### *Contributed to [Project MONAI/MONAI](https://github.com/Project-MONAI/MONAI)*
+4. ### *Contributed to [Project MONAI/MONAI](https://github.com/Project-MONAI/MONAI)*
     *  Opened and merged pull request [#7178](https://github.com/Project-MONAI/MONAI/pull/7178)
        in response to a feature request proposed in issue [#5484](https://github.com/Project-MONAI/MONAI/issues/5484),
        which adds a new `VoxelMorph` class to the existing MONAI Core and can serve as a general framework 
@@ -35,7 +42,6 @@ Contributions
     *  Opened and merged pull request [#7272](https://github.com/Project-MONAI/MONAI/pull/7272), 
        which adds a new registration regularizer `DiffusionLoss` in addition to the existing `BendingEnergyLoss`.
     *  GitHub: [<img src="/images/github-mark.png" width="25"/>](https://github.com/Project-MONAI/MONAI/blob/dev/monai/losses/deform.py)
-
 
 Tools
 -----
@@ -126,5 +132,3 @@ Documentation
        The notebook includes details from how to set up the environment to how to run a trial run 
        and is available both in Chinese and English.
     *  Read the Docs: [<img src="/images/logo-dark.png" width="25"/>](https://opennft-notes.readthedocs.io/en/latest/)
-
-[//]: # (<br/><br/><br/><br/><br/><br/><br/><br/><br/>)

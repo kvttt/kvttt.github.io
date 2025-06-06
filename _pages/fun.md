@@ -19,4 +19,3 @@ author_profile: true
 4. ### *Cumulant expansion using Fourier transform*
     ![Cumulant expansion](/images/cumulant_expansion.png)
 
-[//]: # (<br/><br/><br/><br/><br/><br/><br/><br/><br/>)

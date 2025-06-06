@@ -174,5 +174,3 @@ On Mathematical Analysis
     *  The aim of this note is to organize the materials in a way that is easy to understand and to provide
        a quick reference when studying for midterms and finals.
     *  Note: [<img src="/images/pdf.png" width="25"/>](/files/522-notes.pdf)
-
-[//]: # (<br/><br/><br/><br/><br/><br/><br/><br/><br/>)
