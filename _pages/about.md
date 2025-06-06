@@ -14,11 +14,12 @@ in the [Biomedical Research Imaging Center (BRIC)](https://www.med.unc.edu/bric/
 since September 2021 under the supervision of Dr. Gang Li. 
 My work focuses on developing infant-dedicated deep learning tools for image registration and volumetric atlas construction for the early developing brain.
 
-Currently, I am a visiting student at the [Advanced MRI Acquisition Lab](https://mriacq-lab.martinos.org) at the [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org) at Massachusetts General Hospital under the supervision of Dr. Fuyixue Wang and Dr. Zijing Dong.
-My research focuses on developing deep learning reconstruction and accelerated acquisition methods to achieve fast and robust mesoscale diffusion MRI in vivo.
-
 I previously worked as a Learning Assistant for BIOL 252L: Fundamentals of Human Anatomy and Physiology Laboratory for 4 semesters. 
 I had also been volunteering at the Emergency Department at UNC Hospitals for 2 years since January 2023.
+
+Currently, I am a visiting student at the [Advanced MRI Acquisition Lab](https://mriacq-lab.martinos.org) at the [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org) at Massachusetts General Hospital under the supervision of Dr. Fuyixue Wang and Dr. Zijing Dong.
+My research focuses on developing deep learning reconstruction and accelerated acquisition methods to achieve fast and robust mesoscale diffusion MRI in vivo. 
+I will be joining Boston University as a Ph.D. student in Electrical Engineering in Fall 2025.
 
 In my free time, I enjoy snowboarding, badminton, cooking Chinese food, and [photography](https://kvttt.myportfolio.com/).
 
@@ -57,6 +58,7 @@ was selected for funding by the [Summer Undergraduate Research Fellowship (SURF)
 
 EDUCATION <img src="/images/Gillings-S.png" width="300"/> 
 ---------
+* Ph.D. in Electrical Engineering, [Boston University](https://www.bu.edu/eng/academics/departments-and-divisions/electrical-and-computer-engineering/), Boston, MA, 2025–2030 (expected)
 
 * B.S.P.H. in Biostatistics, [UNC Chapel Hill](https://sph.unc.edu/bios/biostatistics/), Chapel Hill, NC, 2021–2025
 
