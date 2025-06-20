@@ -6,6 +6,21 @@ author_profile: true
 ---
 
 
+Functional Analysis, Distribution Theory, Fourier Transform, and MRI
+--------------------------------------------------------------------
+
+1. ### *Some Distributions and their Fourier Transforms*
+    * This note presents a rigorous introduction to a selection of distributions along with their Fourier transforms,
+      which are commonly encountered in signal processing, and, in particular, magnetic resonance imaging (MRI).
+      In contrast to many textbooks on the principles of MRI which place more emphasis on the engineering aspect, 
+      this note will take a more mathematical approach. 
+      In particular, we will make explicit the underlying topological space of interest 
+      and clarify the exact sense in which these distributions and their Fourier transforms are defined. 
+    * Although the readers are expected to have prior exposure to functional analysis and distribution theory, 
+      this note is intended to be self-contained. 
+    * Note: [<img src="/images/pdf.png" width="25"/>](/files/Some_Distributions_and_their_Fourier_Transforms.pdf)
+
+
 On Microstructure Imaging
 -------------------------
 
