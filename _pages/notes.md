@@ -9,16 +9,17 @@ author_profile: true
 Functional Analysis, Distribution Theory, Fourier Transform, and MRI
 --------------------------------------------------------------------
 
-1. ### *Some Distributions and their Fourier Transforms*
-    * This note presents a rigorous introduction to a selection of distributions along with their Fourier transforms,
-      which are commonly encountered in signal processing, and, in particular, magnetic resonance imaging (MRI).
-      In contrast to many textbooks on the principles of MRI which place more emphasis on the engineering aspect, 
-      this note will take a more mathematical approach. 
-      In particular, we will make explicit the underlying topological space of interest 
-      and clarify the exact sense in which these distributions and their Fourier transforms are defined. 
-    * Although the readers are expected to have prior exposure to functional analysis and distribution theory, 
-      this note is intended to be self-contained. 
-    * Note: [<img src="/images/pdf.png" width="25"/>](/files/Some_Distributions_and_their_Fourier_Transforms.pdf)
+1. ### *A Selection of Distributions and Their Fourier Transforms with Applications in Magnetic Resonance Imaging*
+    *  This note presents a rigorous introduction to a selection of distributions along with their Fourier transforms,
+       which are commonly encountered in signal processing, and, in particular, magnetic resonance imaging (MRI).
+       In contrast to many textbooks on the principles of MRI which place more emphasis on the engineering aspect, 
+       this note will take a more mathematical approach. 
+       In particular, we will make explicit the underlying topological space of interest 
+       and clarify the exact sense in which these distributions and their Fourier transforms are defined. 
+    *  Key results presented in this note involve the Poisson summation formula and the Fourier transform of a Gaussian function via an ordinary differential equation (ODE) argument, etc.
+    *  Although the readers are expected to have prior exposure to functional analysis and distribution theory, 
+       this note is intended to be self-contained. 
+    *  Note: [<img src="/images/pdf.png" width="25"/>](/files/A_Selection_of_Distributions_and_Their_Fourier_Transforms_with_Applications_in_Magnetic_Resonance_Imagin.pdf)
 
 
 On Microstructure Imaging
