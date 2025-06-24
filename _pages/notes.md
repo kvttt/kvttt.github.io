@@ -22,7 +22,7 @@ Functional Analysis, Distribution Theory, Fourier Transform, and MRI
     *  Note: [<img src="/images/pdf.png" width="25"/>](/files/A_Selection_of_Distributions_and_Their_Fourier_Transforms_with_Applications_in_Magnetic_Resonance_Imagin.pdf)
     *  This note is also available on [arXiv](https://arxiv.org/abs/2506.18638).
 
-| \(f(x)\)               | \(\hat{f}_1(\xi)\)                                                                                      | \(\hat{f}_2(\xi)\)                                                                  |
+| $f(x)$                 | \(\hat{f}_1(\xi)\)                                                                                      | \(\hat{f}_2(\xi)\)                                                                  |
 |:-----------------------|:--------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------|
 | \(\sqcap(x)\)          | \(\displaystyle\frac{1}{\sqrt{2\pi}}\;\text{sinc}\left(\frac{\xi}{2\pi}\right)\)                        | \(\text{sinc}(\xi)\)                                                                |
 | \(e^{-\pi x^2}\)       | \(\displaystyle\frac{1}{\sqrt{2\pi}}\;e^{-\frac{\xi^2}{4\pi}}\)                                         | \(e^{-\pi \xi^2}\)                                                                  |
