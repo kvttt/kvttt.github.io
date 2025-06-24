@@ -21,19 +21,19 @@ Functional Analysis, Distribution Theory, Fourier Transform, and MRI
        this note is intended to be self-contained. 
     *  Note: [<img src="/images/pdf.png" width="25"/>](/files/A_Selection_of_Distributions_and_Their_Fourier_Transforms_with_Applications_in_Magnetic_Resonance_Imagin.pdf)
     *  This note is also available on [arXiv](https://arxiv.org/abs/2506.18638).
-
-| \\(f(x)\\)               | \\(\hat{f}_1(\xi)\\)                                                                                      | \\(\hat{f}_2(\xi)\\)                                                                  |
-|:-------------------------|:----------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------|
-| \\(\sqcap(x)\\)          | \\(\displaystyle\frac{1}{\sqrt{2\pi}}\;\text{sinc}\left(\frac{\xi}{2\pi}\right)\\)                        | \\(\text{sinc}(\xi)\\)                                                                |
-| \\(e^{-\pi x^2}\\)       | \\(\displaystyle\frac{1}{\sqrt{2\pi}}\;e^{-\frac{\xi^2}{4\pi}}\\)                                         | \\(e^{-\pi \xi^2}\\)                                                                  |
-| \\(1\\)                  | \\(\sqrt{2\pi}\;\delta(\xi)\\)                                                                            | \\(\delta(\xi)\\)                                                                     |
-| \\(\delta(x)\\)          | \\(\displaystyle\frac{1}{\sqrt{2\pi}}\\)                                                                  | \\(1\\)                                                                               |
-| \\(e^{2\pi i x\xi_0 }\\) | \\(\sqrt{2\pi}\;\delta(\xi - 2\pi \xi_0)\\)                                                               | \\(\delta(\xi - \xi_0)\\)                                                             |
-| \\(\delta(x - x_0)\\)    | \\(\displaystyle\frac{1}{\sqrt{2\pi}}\;e^{-ix_0\xi}\\)                                                    | \\(e^{-2\pi i x_0\xi}\\)                                                              |
-| \\(\cos(2\pi x \xi_0)\\) | \\(\displaystyle\frac{\sqrt{2\pi}}{2}\left[\delta(\xi - 2\pi \xi_0) + \delta(\xi + 2\pi \xi_0)\right]\\)  | \\(\displaystyle\frac{1}{2}\left[\delta(\xi + \xi_0) + \delta(\xi - \xi_0)\right]\\)  |
-| \\(\sin(2\pi x \xi_0)\\) | \\(\displaystyle\frac{\sqrt{2\pi}}{2i}\left[\delta(\xi - 2\pi \xi_0) - \delta(\xi + 2\pi \xi_0)\right]\\) | \\(\displaystyle\frac{1}{2i}\left[\delta(\xi + \xi_0) - \delta(\xi - \xi_0)\right]\\) |
-| \\(\mathrm{III}(x)\\)    | \\(\displaystyle\frac{1}{\sqrt{2\pi}}\;\mathrm{III}\left(\frac{\xi}{2\pi}\right)\\)                       | \\(\mathrm{III}(\xi)\\)                                                               |
-
+    
+    | \\(f(x)\\)               | \\(\hat{f}_1(\xi)\\)                                                                                      | \\(\hat{f}_2(\xi)\\)                                                                  |
+    |:-------------------------|:----------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------|
+    | \\(\sqcap(x)\\)          | \\(\displaystyle\frac{1}{\sqrt{2\pi}}\;\text{sinc}\left(\frac{\xi}{2\pi}\right)\\)                        | \\(\text{sinc}(\xi)\\)                                                                |
+    | \\(e^{-\pi x^2}\\)       | \\(\displaystyle\frac{1}{\sqrt{2\pi}}\;e^{-\frac{\xi^2}{4\pi}}\\)                                         | \\(e^{-\pi \xi^2}\\)                                                                  |
+    | \\(1\\)                  | \\(\sqrt{2\pi}\;\delta(\xi)\\)                                                                            | \\(\delta(\xi)\\)                                                                     |
+    | \\(\delta(x)\\)          | \\(\displaystyle\frac{1}{\sqrt{2\pi}}\\)                                                                  | \\(1\\)                                                                               |
+    | \\(e^{2\pi i x\xi_0 }\\) | \\(\sqrt{2\pi}\;\delta(\xi - 2\pi \xi_0)\\)                                                               | \\(\delta(\xi - \xi_0)\\)                                                             |
+    | \\(\delta(x - x_0)\\)    | \\(\displaystyle\frac{1}{\sqrt{2\pi}}\;e^{-ix_0\xi}\\)                                                    | \\(e^{-2\pi i x_0\xi}\\)                                                              |
+    | \\(\cos(2\pi x \xi_0)\\) | \\(\displaystyle\frac{\sqrt{2\pi}}{2}\left[\delta(\xi - 2\pi \xi_0) + \delta(\xi + 2\pi \xi_0)\right]\\)  | \\(\displaystyle\frac{1}{2}\left[\delta(\xi + \xi_0) + \delta(\xi - \xi_0)\right]\\)  |
+    | \\(\sin(2\pi x \xi_0)\\) | \\(\displaystyle\frac{\sqrt{2\pi}}{2i}\left[\delta(\xi - 2\pi \xi_0) - \delta(\xi + 2\pi \xi_0)\right]\\) | \\(\displaystyle\frac{1}{2i}\left[\delta(\xi + \xi_0) - \delta(\xi - \xi_0)\right]\\) |
+    | \\(\mathrm{III}(x)\\)    | \\(\displaystyle\frac{1}{\sqrt{2\pi}}\;\mathrm{III}\left(\frac{\xi}{2\pi}\right)\\)                       | \\(\mathrm{III}(\xi)\\)                                                               |
+    
 
 
 On Microstructure Imaging
