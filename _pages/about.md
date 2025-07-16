@@ -102,21 +102,28 @@ Under review at *Radiology*.
 The Biological Association Between Programmed Cell Death Function and OA Using Multi-Omic Mendelian Randomization. 
 *Under review at eBioMedicine*.
 
-3. Xiuyu Dong, **Kaibo Tang**, Zhengwang Wu, Dan Hu, Weili Lin, Gang Li. 
-Lifespan Cortical Surface Reconstruction from Thick-Slice Clinical MRI. 
-*Under review at MICCAI 2025*.
+3. **Kaibo Tang**, Xiuyu Dong, Zhengwang Wu, Laifa Ma, Sheng-Che Hung, He Zhang, Weili Lin, Gang Li.
+Surface-Guided Construction of 4D Volumetric Atlases of Fetal Brains.
+Under review at *MLMI 2025*.
 
 **Conference Publications:**
+1. Xiuyu Dong, **Kaibo Tang**, Zhengwang Wu, Dan Hu, Weili Lin, Gang Li. 
+Lifespan Cortical Surface Reconstruction from Thick-Slice Clinical MRI. 
+*MICCAI 2025*.
 
-1. **Kaibo Tang**, Zijing Dong, Lawrence L. Wald, Fuyixue Wang. 
+2. Kai Zhang, Dan Hu, **Kaibo Tang**, Xiuyu Dong, Shijie Huang, Sheng-Che Hung, He Zhang, Zhengwang Wu, Weili Lin, Dinggang Shen, Gang Li. 
+Continuous Spatio-Temporal Representation with Implicit Neural Networks for Fetal Brain MRI Atlas Construction. 
+*PIPPI 2025*.
+
+3. **Kaibo Tang**, Zijing Dong, Lawrence L. Wald, Fuyixue Wang. 
 Accelerated Romer-EPTI using physics-driven, joint x-q attention-network regularized reconstruction for fast mesoscale diffusion MRI.
 *ISMRM 2025 (power pitch).*
 
-2. Xiuyu Dong, Zhangwang Wu, Laifa Ma, Ya Wang, **Kaibo Tang**, He Zhang, Weili Lin, Gang Li. 
+4. Xiuyu Dong, Zhangwang Wu, Laifa Ma, Ya Wang, **Kaibo Tang**, He Zhang, Weili Lin, Gang Li. 
 Cycle-consistent Learning for Fetal Cortical Surface Reconstruction.
 *MICCAI 2024 (early acceptance).*
 
-3. **Kaibo Tang**, Liangjun Chen, Zhengwang Wu, Fenqiang Zhao, Ya Wang, Weili Lin, Li Wang, Gang Li. 
+5. **Kaibo Tang**, Liangjun Chen, Zhengwang Wu, Fenqiang Zhao, Ya Wang, Weili Lin, Li Wang, Gang Li. 
 Generation of Anatomy-Realistic 4D Infant Brain Atlases with Tissue Maps Using Generative Adversarial Networks. 
 *ISBI 2024 (oral).*
 
