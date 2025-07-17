@@ -96,15 +96,15 @@ PUBLICATIONS
 **Manuscripts Under Review:**
 1. Yanyao Du, Dan Hu, Zhengwang Wu, Ya Wang, Jiahe Wang, Jiale Cheng, Xinrui Yuan, **Kaibo Tang**, Jun Liu, Karen Grewen, Gang Li. 
 Abnormal Perivascular Space Parameters in Infants with Prenatal Substance Exposure. 
-Under review at *Radiology*.
+*Under review at Radiology*.
 
 2. Rong Lu, **Kaibo Tang**, Run Pan, Shangxuan Shi, Xiao'ao Xue, Tingfang Hwang, Yang Song, Weijun Tang, Yue Yu, He Wang, Yao Lu, Ting Lin. 
 The Biological Association Between Programmed Cell Death Function and OA Using Multi-Omic Mendelian Randomization. 
-*Under review at eBioMedicine*.
+*Under review at Biomedical Technology*.
 
 3. **Kaibo Tang**, Xiuyu Dong, Zhengwang Wu, Laifa Ma, Sheng-Che Hung, He Zhang, Weili Lin, Gang Li.
 Surface-Guided Construction of 4D Volumetric Atlases of Fetal Brains.
-Under review at *MLMI 2025*.
+*Under review at MLMI 2025*.
 
 **Conference Publications:**
 1. Xiuyu Dong, **Kaibo Tang**, Zhengwang Wu, Dan Hu, Weili Lin, Gang Li. 
@@ -149,10 +149,13 @@ Editorial for "Improving Accuracy and Repeatability of Cartilage \\(T_2\\) Mappi
 AWARDS & HONORS
 ---------------
 
-1. Accelerated Research Program at UNC Chapel Hill.
-2. Honors Carolina at UNC Chapel Hill.
-3. Summer Undergraduate Research Fellowship (SURF).
-4. [Phi Beta Kappa](https://uncnews.unc.edu/2023/10/31/259-students-inducted-into-phi-beta-kappa-at-unc-chapel-hill/).
+1. Trainee Stipend for the [2025 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/25m/).
+2. Distinguished Electrical Engineering Fellowship, Boston University, 2025.
+3. College of Engineering Convergent Fellowship, Boston University, 2025.
+4. Accelerated Research Program at UNC Chapel Hill.
+5. Honors Carolina at UNC Chapel Hill.
+6. Summer Undergraduate Research Fellowship (SURF), 2022.
+7. [Phi Beta Kappa](https://uncnews.unc.edu/2023/10/31/259-students-inducted-into-phi-beta-kappa-at-unc-chapel-hill/), 2023.
 
 
 TEACHING
