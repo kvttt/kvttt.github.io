@@ -29,6 +29,8 @@ You may find my CV here: [Kaibo's Curriculum Vitae](/files/Kaibo_Tang_CV.pdf).
 NEWS
 ----
 
+*8/1/2025* - My second first-author paper during my undergraduate career was accepted to the [MLMI workshop](https://sites.google.com/view/mlmi2025/) at [MICCAI 2025](https://conferences.miccai.org/2025/).
+
 *2/20/2025* - I was awarded the Trainee Stipend for the [2025 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/25m/). See y'all in Hawaii :)
 
 *1/31/2025* - My abstract on accelerating mesoscale in vivo dMRI was selected for an in-person oral power pitch presentation at the [2025 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/25m/).
@@ -96,34 +98,35 @@ PUBLICATIONS
 **Manuscripts Under Review:**
 1. Yanyao Du, Dan Hu, Zhengwang Wu, Ya Wang, Jiahe Wang, Jiale Cheng, Xinrui Yuan, **Kaibo Tang**, Jun Liu, Karen Grewen, Gang Li. 
 Abnormal Perivascular Space Parameters in Infants with Prenatal Substance Exposure. 
-*Under review at Radiology*.
+*Under review.*
 
 2. Rong Lu, **Kaibo Tang**, Run Pan, Shangxuan Shi, Xiao'ao Xue, Tingfang Hwang, Yang Song, Weijun Tang, Yue Yu, He Wang, Yao Lu, Ting Lin. 
 The Biological Association Between Programmed Cell Death Function and OA Using Multi-Omic Mendelian Randomization. 
-*Under review at Biomedical Technology*.
-
-3. **Kaibo Tang**, Xiuyu Dong, Zhengwang Wu, Laifa Ma, Sheng-Che Hung, He Zhang, Weili Lin, Gang Li.
-Surface-Guided Construction of 4D Volumetric Atlases of Fetal Brains.
-*Under review at MLMI 2025*.
+*Under review at Biomedical Technology.*
 
 **Conference Publications:**
-1. Xiuyu Dong, **Kaibo Tang**, Zhengwang Wu, Dan Hu, Weili Lin, Gang Li. 
+
+1. **Kaibo Tang**, Xiuyu Dong, Zhengwang Wu, Laifa Ma, Sheng-Che Hung, He Zhang, Weili Lin, Gang Li.
+Surface-Guided Construction of 4D Volumetric Atlases of Fetal Brains.
+*MICCAI 2025 (MLMI workshop).*
+
+2. Xiuyu Dong, **Kaibo Tang**, Zhengwang Wu, Dan Hu, Weili Lin, Gang Li. 
 Lifespan Cortical Surface Reconstruction from Thick-Slice Clinical MRI. 
-*MICCAI 2025*.
+*MICCAI 2025.*
 
-2. Kai Zhang, Dan Hu, **Kaibo Tang**, Xiuyu Dong, Shijie Huang, Sheng-Che Hung, He Zhang, Zhengwang Wu, Weili Lin, Dinggang Shen, Gang Li. 
+3. Kai Zhang, Dan Hu, **Kaibo Tang**, Xiuyu Dong, Shijie Huang, Sheng-Che Hung, He Zhang, Zhengwang Wu, Weili Lin, Dinggang Shen, Gang Li. 
 Continuous Spatio-Temporal Representation with Implicit Neural Networks for Fetal Brain MRI Atlas Construction. 
-*PIPPI 2025*.
+*MICCAI 2025 (PIPPI workshop).*
 
-3. **Kaibo Tang**, Zijing Dong, Lawrence L. Wald, Fuyixue Wang. 
+4. **Kaibo Tang**, Zijing Dong, Lawrence L. Wald, Fuyixue Wang. 
 Accelerated Romer-EPTI using physics-driven, joint x-q attention-network regularized reconstruction for fast mesoscale diffusion MRI.
 *ISMRM 2025 (power pitch).*
 
-4. Xiuyu Dong, Zhangwang Wu, Laifa Ma, Ya Wang, **Kaibo Tang**, He Zhang, Weili Lin, Gang Li. 
+5. Xiuyu Dong, Zhangwang Wu, Laifa Ma, Ya Wang, **Kaibo Tang**, He Zhang, Weili Lin, Gang Li. 
 Cycle-consistent Learning for Fetal Cortical Surface Reconstruction.
 *MICCAI 2024 (early acceptance).*
 
-5. **Kaibo Tang**, Liangjun Chen, Zhengwang Wu, Fenqiang Zhao, Ya Wang, Weili Lin, Li Wang, Gang Li. 
+6. **Kaibo Tang**, Liangjun Chen, Zhengwang Wu, Fenqiang Zhao, Ya Wang, Weili Lin, Li Wang, Gang Li. 
 Generation of Anatomy-Realistic 4D Infant Brain Atlases with Tissue Maps Using Generative Adversarial Networks. 
 *ISBI 2024 (oral).*
 
@@ -131,15 +134,15 @@ Generation of Anatomy-Realistic 4D Infant Brain Atlases with Tissue Maps Using G
 
 1. Rong Lu, Tingfang Hwang, **Kaibo Tang**, Qing Li, Caixia Fu, Ying-Hua Chu, Shangxuan Shi, Tobias Kober, Tom Hibert, Bin Lu, Yiming Li, Yao Lu, Weijun Tang, Lijin Ji.
 A noninvasive accelerated quantitative MR technique to distinguish drug resistance in prolactinomas: Early results.
-*Biomedical Technology*. 2025.
+*Biomedical Technology.* 2025.
 
 1. Ruike Chen, Mingyang Li, ..., **Kaibo Tang**, ..., Dan Wu. 
 Advances in Magnetic Resonance Imaging of the Developing Brain and its Application in Pediatrics. 
-*World Journal of Pediatrics*. 2025.
+*World Journal of Pediatrics.* 2025.
 
 1. Jiaqi Zhang, Yanyao Du, ..., **Kaibo Tang**, ..., Tianzi Jiang. 
 Stage-dependent Neural Mechanisms in Human Methamphetamine Abstinence: Insights from the Digital Twin Brain Model. 
-*Biological Psychiatry*. 2025.
+*Biological Psychiatry.* 2025.
 
 2. Rong Lu, **Kaibo Tang**, Weijun Tang. 
 Editorial for "Improving Accuracy and Repeatability of Cartilage \\(T_2\\) Mapping in the OAI Dataset through Extended Phase Graph Modeling". 
