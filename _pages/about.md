@@ -164,4 +164,10 @@ AWARDS & HONORS
 TEACHING
 --------
 
-1. Learning Assistant for BIOL 252L: Fundamentals of Anatomy and Physiology Laboratory.
+1. Lab Assistant for BIOL 252L: Fundamentals of Human Anatomy and Physiology Laboratory, UNC Chapel Hill (Spring 2023, Fall 2023, Spring 2024, Fall 2024).
+
+
+VOLUNEERING
+-----------
+
+1. Volunteer at the UNC Medical Center Emergency Department (January 2023 - December 2024).
