@@ -101,10 +101,6 @@ PUBLICATIONS
 Abnormal Perivascular Space Parameters in Infants with Prenatal Substance Exposure. 
 *Under review.*
 
-2. Rong Lu, **Kaibo Tang**, Run Pan, Shangxuan Shi, Xiao'ao Xue, Tingfang Hwang, Yang Song, Weijun Tang, Yue Yu, He Wang, Yao Lu, Ting Lin. 
-The Biological Association Between Programmed Cell Death Function and OA Using Multi-Omic Mendelian Randomization. 
-*Biomedical Technology.*
-
 **Conference Publications:**
 
 1. **Kaibo Tang**, Xiuyu Dong, Zhengwang Wu, Laifa Ma, Sheng-Che Hung, He Zhang, Weili Lin, Gang Li.
@@ -133,19 +129,23 @@ Generation of Anatomy-Realistic 4D Infant Brain Atlases with Tissue Maps Using G
 
 **Journal Publications:**
 
-1. Rong Lu, Tingfang Hwang, **Kaibo Tang**, Qing Li, Caixia Fu, Ying-Hua Chu, Shangxuan Shi, Tobias Kober, Tom Hibert, Bin Lu, Yiming Li, Yao Lu, Weijun Tang, Lijin Ji.
+1. Rong Lu, **Kaibo Tang**, Run Pan, Shangxuan Shi, Xiao'ao Xue, Tingfang Hwang, Yang Song, Weijun Tang, Yue Yu, He Wang, Yao Lu, Ting Lin. 
+The Biological Association Between Programmed Cell Death Function and OA Using Multi-Omic Mendelian Randomization. 
+*Biomedical Technology.*
+
+2. Rong Lu, Tingfang Hwang, **Kaibo Tang**, Qing Li, Caixia Fu, Ying-Hua Chu, Shangxuan Shi, Tobias Kober, Tom Hibert, Bin Lu, Yiming Li, Yao Lu, Weijun Tang, Lijin Ji.
 A noninvasive accelerated quantitative MR technique to distinguish drug resistance in prolactinomas: Early results.
 *Biomedical Technology.* 2025.
 
-1. Ruike Chen, Mingyang Li, ..., **Kaibo Tang**, ..., Dan Wu. 
+3. Ruike Chen, Mingyang Li, ..., **Kaibo Tang**, ..., Dan Wu. 
 Advances in Magnetic Resonance Imaging of the Developing Brain and its Application in Pediatrics. 
 *World Journal of Pediatrics.* 2025.
 
-1. Jiaqi Zhang, Yanyao Du, ..., **Kaibo Tang**, ..., Tianzi Jiang. 
+4. Jiaqi Zhang, Yanyao Du, ..., **Kaibo Tang**, ..., Tianzi Jiang. 
 Stage-dependent Neural Mechanisms in Human Methamphetamine Abstinence: Insights from the Digital Twin Brain Model. 
 *Biological Psychiatry.* 2025.
 
-2. Rong Lu, **Kaibo Tang**, Weijun Tang. 
+5. Rong Lu, **Kaibo Tang**, Weijun Tang. 
 Editorial for "Improving Accuracy and Repeatability of Cartilage \\(T_2\\) Mapping in the OAI Dataset through Extended Phase Graph Modeling". 
 *Journal of Magnetic Resonance Imaging.* 2025.
 
