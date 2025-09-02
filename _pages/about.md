@@ -102,7 +102,7 @@ Abnormal Perivascular Space Parameters in Infants with Prenatal Substance Exposu
 
 2. Rong Lu, **Kaibo Tang**, Run Pan, Shangxuan Shi, Xiao'ao Xue, Tingfang Hwang, Yang Song, Weijun Tang, Yue Yu, He Wang, Yao Lu, Ting Lin. 
 The Biological Association Between Programmed Cell Death Function and OA Using Multi-Omic Mendelian Randomization. 
-*Under review at Biomedical Technology.*
+*Biomedical Technology.*
 
 **Conference Publications:**
 
