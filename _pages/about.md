@@ -7,21 +7,22 @@ redirect_from:
 ---
 
 
+I am currently a Ph.D student in the [Department of Electrical and Computer Engineering](https://www.bu.edu/eng/academics/departments-and-divisions/electrical-and-computer-engineering/) at Boston University.
+
 I recently graduated from UNC Chapel Hill with a Bachelor of Science in Public Health in Biostatistics, a Bachelor of Science in Mathematics, and a minor in Chemistry. 
 
 During my time at UNC Chapel Hill, I had worked at the [UNC BRAIN Lab](https://bbm.web.unc.edu/) 
 in the [Biomedical Research Imaging Center (BRIC)](https://www.med.unc.edu/bric/) as a Research Assistant
 since September 2021 under the supervision of Dr. Gang Li. 
-My work focuses on developing infant-dedicated deep learning tools for image registration and volumetric atlas construction for the early developing brain.
+My work focused on developing infant-dedicated deep learning tools for image registration and volumetric atlas construction for the early developing brain.
 
-I previously worked as a Learning Assistant for BIOL 252L: Fundamentals of Human Anatomy and Physiology Laboratory for 4 semesters. 
+I previously worked as a Lab Assistant for BIOL 252L: Fundamentals of Human Anatomy and Physiology Laboratory for 4 semesters. 
 I had also been volunteering at the Emergency Department at UNC Hospitals for 2 years since January 2023.
 
-Currently, I am a visiting student at the [Advanced MRI Acquisition Lab](https://mriacq-lab.martinos.org) at the [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org) at Massachusetts General Hospital under the supervision of Dr. Fuyixue Wang and Dr. Zijing Dong.
-My research focuses on developing deep learning reconstruction and accelerated acquisition methods to achieve fast and robust mesoscale diffusion MRI in vivo. 
-I will be joining Boston University as a Ph.D. student in Electrical Engineering in Fall 2025.
+Since March 2024, I have worked as a visiting student at the [Advanced MRI Acquisition Lab](https://mriacq-lab.martinos.org) at the [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org) at Massachusetts General Hospital under the supervision of Dr. Fuyixue Wang and Dr. Zijing Dong.
+My research focuses on developing deep learning reconstruction and accelerated acquisition methods to achieve fast and robust mesoscale diffusion MRI in vivo.
 
-In my free time, I enjoy snowboarding, badminton, cooking Chinese food, and [photography](https://kvttt.myportfolio.com/).
+In my free time, I enjoy Chinese hiphop, snowboarding, badminton, cooking Chinese food, and [photography](https://kvttt.myportfolio.com/).
 
 You may find my CV here: [Kaibo's Curriculum Vitae](/files/Kaibo_Tang_CV.pdf).
 
