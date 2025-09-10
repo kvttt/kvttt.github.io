@@ -17,12 +17,13 @@ author_profile: true
 
 2. **Accelerated Romer-EPTI using physics-driven, joint x-q attention-network regularized reconstruction for fast mesoscale diffusion MRI**
     * *Authors:* **Kaibo Tang**, Zijing Dong, Lawrence L. Wald, Fuyixue Wang 
-    * *Published in:* Proceedings of the 33rd Annual Meeting of ISMRM
-    * *Paper link:* :)
+    * *Published in:* Proceedings of the 2025 ISMRM & ISMRT Annual Meeting
+    * *Paper link:* [https://archive.ismrm.org/2025/0695_D6vLVxQRs.html](https://archive.ismrm.org/2025/0695_D6vLVxQRs.html)
     * *Power pitch video link:* :)
     * *Digital poster video link:* :)
     * *Citation:* 
-      * *AMA:* :)
+      * *AMA:* Tang K, Dong Z, Wald LL, Wang F. Accelerated Romer-EPTI using physics-driven, joint x-q attention-network regularized reconstruction for fast mesoscale diffusion MRI. In: *Proceedings of the 2025 ISMRM & ISMRT Annual Meeting.* 2025:0695.
+
 
 3. **Generation of Anatomy-Realistic 4D Infant Brain Atlases with Tissue Maps Using Generative Adversarial Networks**
     * *Authors:* **Kaibo Tang**, Liangjun Chen, Zhengwang Wu, Fenqiang Zhao, Ya Wang, Weili Lin, Li Wang, Gang Li
