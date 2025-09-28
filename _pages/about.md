@@ -27,6 +27,7 @@ In my free time, I enjoy Chinese hiphop, snowboarding, badminton, cooking Chines
 You may find my CV here: [Kaibo's Curriculum Vitae](/files/Kaibo_Tang_CV.pdf).
 
 Here is a reasonably accurate depiction of me:
+
 <img src="/images/IMG_3014.png" alt="kaibo" width="50%"/>
 
 NEWS
