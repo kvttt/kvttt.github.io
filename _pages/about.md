@@ -101,8 +101,8 @@ PUBLICATIONS
 
 **Manuscripts Under Review:**
 1. Yanyao Du, Dan Hu, Zhengwang Wu, Ya Wang, Jiahe Wang, Jiale Cheng, Xinrui Yuan, **Kaibo Tang**, Jun Liu, Karen Grewen, Gang Li. 
-Abnormal Perivascular Space Parameters in Infants with Prenatal Substance Exposure. 
-*Under review.*
+Elevated Perivascular Space Burden in Infants with Prenatal Substance Exposure. 
+*Under review at Nature Communications.*
 
 **Conference Publications:**
 
