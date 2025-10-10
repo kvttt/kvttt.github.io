@@ -102,7 +102,7 @@ PUBLICATIONS
 **Manuscripts Under Review:**
 1. Yanyao Du, Dan Hu, Zhengwang Wu, Ya Wang, Jiahe Wang, Jiale Cheng, Xinrui Yuan, **Kaibo Tang**, Jun Liu, Karen Grewen, Gang Li. 
 Elevated Perivascular Space Burden in Infants with Prenatal Substance Exposure. 
-*Under review at Nature Communications.*
+*Under review at Nature Mental Health.*
 
 **Conference Publications:**
 
