@@ -21,5 +21,8 @@ main:
   - title: "Fun Stuff"
     url: /fun/
 
+  - title: "Q&A"
+    url: /qa/
+
   - title: "Photography"
     url: https://kvttt.myportfolio.com/
