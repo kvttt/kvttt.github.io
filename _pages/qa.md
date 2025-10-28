@@ -10,7 +10,7 @@ author_profile: true
 A: Scratch.
 
 ### Q: What is your favorite theorem in mathematics?
-A: Hahn-Banach.
+A: \\(\int_{\partial \Omega} \omega = \int_{\Omega} d\omega\\)
 
 ### Q: What is your favorite thing about statistics?
 A: Famous quotes, e.g., "Far better an approximate answer to the right question, which is often vague, than the exact answer to the wrong question, which can always be made precise." - John Tukey

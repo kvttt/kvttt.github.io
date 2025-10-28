@@ -100,7 +100,12 @@ PUBLICATIONS
 ------------
 
 **Manuscripts Under Review:**
-1. Yanyao Du, Dan Hu, Zhengwang Wu, Ya Wang, Jiahe Wang, Jiale Cheng, Xinrui Yuan, **Kaibo Tang**, Jun Liu, Karen Grewen, Gang Li. 
+
+1. **Kaibo Tang**, Zijing Dong, Lawrence L. Wald, Fuyixue Wang. 
+Rapid multi-shell mesoscale dMRI using accelerated Romer-EPTI with joint x-q attention network constrained reconstruction.
+*Under review at ISMRM 2026.*
+
+2. Yanyao Du, Dan Hu, Zhengwang Wu, Ya Wang, Jiahe Wang, Jiale Cheng, Xinrui Yuan, **Kaibo Tang**, Jun Liu, Karen Grewen, Gang Li. 
 Elevated Perivascular Space Burden in Infants with Prenatal Substance Exposure. 
 *Under review at Nature Mental Health.*
 
