@@ -19,3 +19,8 @@ package-lock.json
 /.idea/inspectionProfiles/profiles_settings.xml
 /.idea/inspectionProfiles/Project_Default.xml
 /.idea/vcs.xml
+assets/.DS_Store
+.github/.DS_Store
+.gitignore
+_includes/.DS_Store
+.DS_Store

@@ -6,9 +6,13 @@ author_profile: true
 ---
 
 
-* March 2024 - Present: **Visiting Student**
-  * ***Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital***, *Charlestown, MA*
-  * Supervisor: **Dr. Fuyixue Wang and Dr. Zijing Dong**
+* August 2025 - Present: **PhD Student**
+  * ***Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital and Harvard Medical School***, *Charlestown, MA*
+  * Advisors: **Drs. Fuyixue Wang and Zijing Dong**
+
+* March 2024 - August 2025: **Visiting Student**
+  * ***Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital and Harvard Medical School***, *Charlestown, MA*
+  * Supervisor: **Drs. Fuyixue Wang and Zijing Dong**
   * Explored Romer-EPTI, 
     a novel MR sequence and reconstruction technique for in vivo mesoscale dMRI.
     Studied Plug-and-Play Alternating Direction Method of Multiplier (ADMM) for medical image reconstruction.

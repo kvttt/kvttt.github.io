@@ -5,14 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 1. **Surface-Guided Construction of 4D Volumetric Atlases of Fetal Brains**
     * *Authors:* **Kaibo Tang**, Xiuyu Dong, Zhengwang Wu, Laifa Ma, Sheng-Che Hung, He Zhang, Weili Lin, Gang Li.
     * *Published in:* International Workshop on Machine Learning in Medical Imaging - MLMI 2025
-    * *Paper link:* :)
-    * *Poster PDF:* :)
+    * *Paper link:* [https://link.springer.com/chapter/10.1007/978-3-032-09513-8_26](https://link.springer.com/chapter/10.1007/978-3-032-09513-8_26)
+    * *Poster PDF:* [<img src="/images/pdf.png" width="25"/>](/files/Poster-032.pdf)
     * *Description:* :)
     * *Citation:*
-      * *AMA:* :)
+      * *AMA:* Tang K, Dong X, Wu Z, et al. Surface-Guided Construction of 4D Volumetric Atlases of Fetal Brains. In: Cui Z, Rekik I, Suk HI, Ouyang X, Sun K, Wang S, eds. *Machine Learning in Medical Imaging. Vol 16241. Lecture Notes in Computer Science.* Springer Nature Switzerland; 2026:266-276. doi:10.1007/978-3-032-09513-8_26
 
 
 2. **Accelerated Romer-EPTI using physics-driven, joint x-q attention-network regularized reconstruction for fast mesoscale diffusion MRI**

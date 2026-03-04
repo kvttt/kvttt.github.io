@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "CV"
+    url: /files/Kaibo_Tang_CV.pdf
+
   - title: "Experiences"
     url: /experiences/
 
@@ -9,20 +12,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "CV"
-    url: /files/Kaibo_Tang_CV.pdf
-
   - title: "Notes"
     url: /notes/
-
-  - title: "MRI"
-    url: /mri/
 
   - title: "Videos"
     url: /videos/
 
-  - title: "Fun Stuff"
-    url: /fun/
+  - title: "MRI"
+    url: /mri/
 
   - title: "Q&A"
     url: /qa/
