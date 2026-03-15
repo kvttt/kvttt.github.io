@@ -29,9 +29,3 @@ I will try to use this place to share stuff related to MRI that takes me a while
 
 6. ### *Revisiting spatiotemporal imaging with partially separable functions*
     Note: [<img src="/images/pdf.png" width="25"/>](/files/psf.pdf)
-
-7. ### *An introduction to MRI, EPI, and EPTI*
-    This is my midterm presentation for the course EC 717: Image Reconstruction and Restoration in Spring 2026.
-    
-    Note: [<img src="/images/pdf.png" width="25"/>](/files/ec_717_presentation.pdf)
-
