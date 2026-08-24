@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-I am a first-year PhD student in the [Department of Electrical and Computer Engineering](https://www.bu.edu/eng/academics/departments-and-divisions/electrical-and-computer-engineering/) at Boston University, working with Drs. Fuyixue Wang and Zijing Dong at the [Advanced MRI Acquisition Lab](https://mriacq-lab.martinos.org) at the [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org) at Massachusetts General Hospital and Harvard Medical School, where I first joined as a visiting student in March 2024.
+I am a second-year PhD student in the [Department of Electrical and Computer Engineering](https://www.bu.edu/eng/academics/departments-and-divisions/electrical-and-computer-engineering/) at Boston University, working with Drs. Fuyixue Wang and Zijing Dong at the [Advanced MRI Acquisition Lab](https://mriacq-lab.martinos.org) at the [Athinoula A. Martinos Center for Biomedical Imaging](https://www.martinos.org) at Massachusetts General Hospital and Harvard Medical School, where I first joined as a visiting student in March 2024.
 My research focuses on developing deep learning reconstruction and accelerated acquisition methods to achieve fast and robust mesoscale diffusion MRI in vivo.
 
 Prior to joining Boston University, I was an undergraduate student at [UNC Chapel Hill](https://www.unc.edu/), where I received a BSPH in Biostatistics, a BS in Mathematics, with a minor in Chemistry.
@@ -18,12 +18,16 @@ In my free time, I enjoy Chinese hiphop, snowboarding, badminton, cooking Chines
 
 You may find my CV here: [Kaibo's Curriculum Vitae](/files/Kaibo_Tang_CV.pdf).
 
-<!-- Here is a reasonably accurate depiction of me:
+Here is a reasonably accurate depiction of me:
 
-<img src="/images/IMG_3014.png" alt="kaibo" width="50%"/> -->
+<img src="/images/IMG_3014.png" alt="kaibo" width="50%"/>
 
 NEWS
 ----
+
+*6/4/2026* - I am officially a PhD candidacy after receiving a **High Pass** on my qualifying exam.
+
+*6/3/2026* - I was invited to give a talk at the [2026 Connectome 2.0 Dissemination Workshop](https://connectome2.martinos.org/2026-workshop/).
 
 *2/5/2026* - My second abstract on rapid multi-shell mesoscale dMRI was selected for oral presentation at the [2026 ISMRM & ISMRT Annual Meeting & Exhibition](https://www.ismrm.org/26m/). I was also awarded the Trainee Stipend for the conference. :)
 
@@ -92,65 +96,29 @@ PUBLICATIONS
 
 **Manuscripts Under Review:**
 
-1. **Kaibo Tang**, Zijing Dong, Lawrence L. Wald, Fuyixue Wang.
-Rapid multi-shell mesoscale dMRI using accelerated Romer-EPTI with joint (x, q)-attention network constrained reconstruction.
+1. **Kaibo Tang**, Zijing Dong, Fuyixue Wang.
+Accelerated Romer-EPTI with Joint Spatial-q-Space Attention Network-Constrained Reconstruction for Rapid Mesoscale Diffusion MRI.
 *Under review at Magnetic Resonance in Medicine.*
-
-2. Yanyao Du, Dan Hu, Zhengwang Wu, Ya Wang, Jiahe Wang, Jiale Cheng, Xinrui Yuan, **Kaibo Tang**, Jun Liu, Karen Grewen, Gang Li.
-Elevated Perivascular Space Burden in Infants with Prenatal Substance Exposure.
-*Under review.*
 
 **Conference Publications:**
 
 1. **Kaibo Tang**, Zijing Dong, Lawrence L. Wald, Fuyixue Wang.
 Rapid multi-shell mesoscale dMRI using accelerated Romer-EPTI with joint x-q attention network constrained reconstruction.
 *ISMRM 2026 (oral).*
-
 2. **Kaibo Tang**, Xiuyu Dong, Zhengwang Wu, Laifa Ma, Sheng-Che Hung, He Zhang, Weili Lin, Gang Li.
 Surface-Guided Construction of 4D Volumetric Atlases of Fetal Brains.
 *MICCAI 2025 (MLMI workshop).*
-
-3. Xiuyu Dong, **Kaibo Tang**, Zhengwang Wu, Dan Hu, Weili Lin, Gang Li.
-Lifespan Cortical Surface Reconstruction from Thick-Slice Clinical MRI.
-*MICCAI 2025.*
-
-4. Kai Zhang, Dan Hu, **Kaibo Tang**, Xiuyu Dong, Shijie Huang, Sheng-Che Hung, He Zhang, Zhengwang Wu, Weili Lin, Dinggang Shen, Gang Li.
-Continuous Spatio-Temporal Representation with Implicit Neural Networks for Fetal Brain MRI Atlas Construction.
-*MICCAI 2025 (PIPPI workshop).*
-
-5. **Kaibo Tang**, Zijing Dong, Lawrence L. Wald, Fuyixue Wang.
+3. **Kaibo Tang**, Zijing Dong, Lawrence L. Wald, Fuyixue Wang.
 Accelerated Romer-EPTI using physics-driven, joint x-q attention-network regularized reconstruction for fast mesoscale diffusion MRI.
 *ISMRM 2025 (power pitch).*
-
-6. Xiuyu Dong, Zhangwang Wu, Laifa Ma, Ya Wang, **Kaibo Tang**, He Zhang, Weili Lin, Gang Li.
-Cycle-consistent Learning for Fetal Cortical Surface Reconstruction.
-*MICCAI 2024 (early acceptance).*
-
-7. **Kaibo Tang**, Liangjun Chen, Zhengwang Wu, Fenqiang Zhao, Ya Wang, Weili Lin, Li Wang, Gang Li.
+4. **Kaibo Tang**, Liangjun Chen, Zhengwang Wu, Fenqiang Zhao, Ya Wang, Weili Lin, Li Wang, Gang Li.
 Generation of Anatomy-Realistic 4D Infant Brain Atlases with Tissue Maps Using Generative Adversarial Networks.
 *ISBI 2024 (oral).*
 
-**Journal Publications:**
+INVITED TALKS
+-------------
 
-1. Rong Lu, **Kaibo Tang**, Run Pan, Shangxuan Shi, Xiao'ao Xue, Tingfang Hwang, Yang Song, Weijun Tang, Yue Yu, He Wang, Yao Lu, Ting Lin.
-The Biological Association Between Programmed Cell Death Function and OA Using Multi-Omic Mendelian Randomization.
-*Biomedical Technology.*
-
-2. Rong Lu, Tingfang Hwang, **Kaibo Tang**, Qing Li, Caixia Fu, Ying-Hua Chu, Shangxuan Shi, Tobias Kober, Tom Hibert, Bin Lu, Yiming Li, Yao Lu, Weijun Tang, Lijin Ji.
-A noninvasive accelerated quantitative MR technique to distinguish drug resistance in prolactinomas: Early results.
-*Biomedical Technology.* 2025.
-
-3. Ruike Chen, Mingyang Li, ..., **Kaibo Tang**, ..., Dan Wu.
-Advances in Magnetic Resonance Imaging of the Developing Brain and its Application in Pediatrics.
-*World Journal of Pediatrics.* 2025.
-
-4. Jiaqi Zhang, Yanyao Du, ..., **Kaibo Tang**, ..., Tianzi Jiang.
-Stage-dependent Neural Mechanisms in Human Methamphetamine Abstinence: Insights from the Digital Twin Brain Model.
-*Biological Psychiatry.* 2025.
-
-5. Rong Lu, **Kaibo Tang**, Weijun Tang.
-Editorial for "Improving Accuracy and Repeatability of Cartilage \\(T_2\\) Mapping in the OAI Dataset through Extended Phase Graph Modeling".
-*Journal of Magnetic Resonance Imaging.* 2025.
+1. "Advanced acquisition paradigms", [2026 Connectome 2.0 Dissemination Workshop](https://connectome2.martinos.org/2026-workshop/), Charlestown, MA. 2026.
 
 AWARDS & HONORS
 ---------------
