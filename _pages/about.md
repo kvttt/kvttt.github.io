@@ -25,7 +25,7 @@ Here is a reasonably accurate depiction of me:
 NEWS
 ----
 
-*6/4/2026* - I am officially a PhD candidacy after receiving a **High Pass** on my qualifying exam.
+*6/4/2026* - I am officially a PhD candidate after receiving a *High Pass* on my qualifying exam.
 
 *6/3/2026* - I was invited to give a talk at the [2026 Connectome 2.0 Dissemination Workshop](https://connectome2.martinos.org/2026-workshop/).
 
